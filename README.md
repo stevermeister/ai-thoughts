@@ -10,3 +10,5 @@ Added error handling for exceptional cases ❌
 
 Enhanced user interface for better user experience 💻
 
+Fixed bug causing unexpected behavior 🐛
+
