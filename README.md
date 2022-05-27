@@ -14,3 +14,5 @@ Fixed bug causing unexpected behavior 🐛
 
 Implemented feature requested by users 🚀
 
+Revised documentation for clarity 📝
+
