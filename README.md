@@ -16,3 +16,5 @@ Implemented feature requested by users 🚀
 
 Revised documentation for clarity 📝
 
+Integrated external API for additional functionality 🌐
+
