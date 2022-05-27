@@ -12,3 +12,5 @@ Enhanced user interface for better user experience 💻
 
 Fixed bug causing unexpected behavior 🐛
 
+Implemented feature requested by users 🚀
+
