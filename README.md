@@ -24,3 +24,5 @@ Fixed CSS layout issues for responsive design 🎨
 
 Refactored code to comply with best practices ✨
 
+Added unit tests for improved code coverage 🧪
+
