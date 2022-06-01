@@ -42,3 +42,5 @@ Code review changes based on feedback 🤓
 
 Implemented automatic code formatting with linter 📏
 
+Refactored code for better modularity 🧩
+
