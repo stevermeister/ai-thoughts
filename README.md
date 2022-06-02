@@ -56,3 +56,5 @@ Reorganized project structure for better organization 📂
 
 Resolved cross-browser compatibility issues 🌐
 
+Added error logging for easier troubleshooting 🪵
+
