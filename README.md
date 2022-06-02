@@ -52,3 +52,5 @@ Implemented batch processing for improved scalability 🔄
 
 Fixed memory leak causing resource depletion 💭
 
+Reorganized project structure for better organization 📂
+
