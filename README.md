@@ -54,3 +54,5 @@ Fixed memory leak causing resource depletion 💭
 
 Reorganized project structure for better organization 📂
 
+Resolved cross-browser compatibility issues 🌐
+
