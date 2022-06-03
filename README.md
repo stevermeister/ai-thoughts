@@ -62,3 +62,5 @@ Implemented caching for faster data retrieval 🚀
 
 Optimized network requests for quicker response times 📶
 
+Fixed broken links on website 🛠️
+
