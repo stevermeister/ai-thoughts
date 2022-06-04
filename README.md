@@ -68,3 +68,5 @@ Integrated machine learning model for predictive analytics 🤖
 
 Squashed multiple bugs reported by QA 🪲
 
+Implemented dark mode for user preference 🌙
+
