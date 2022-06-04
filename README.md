@@ -74,3 +74,5 @@ Optimized search functionality for better results 🔍
 
 Refactored code to reduce code duplication ♻️
 
+Fixed memory management issue causing crashes 💥
+
