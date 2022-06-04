@@ -72,3 +72,5 @@ Implemented dark mode for user preference 🌙
 
 Optimized search functionality for better results 🔍
 
+Refactored code to reduce code duplication ♻️
+
