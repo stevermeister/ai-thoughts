@@ -66,3 +66,5 @@ Fixed broken links on website 🛠️
 
 Integrated machine learning model for predictive analytics 🤖
 
+Squashed multiple bugs reported by QA 🪲
+
