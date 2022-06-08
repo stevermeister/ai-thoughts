@@ -88,3 +88,5 @@ Optimized database schema for efficient data storage 📦
 
 Fixed broken API endpoint returning errors 🚪
 
+Implemented feature flag for gradual rollout 🚩
+
