@@ -98,3 +98,5 @@ Added rate limiting to prevent abuse of services ⏱️
 
 Implemented responsive design for mobile compatibility 📱
 
+Fixed broken pagination on search results 📄
+
