@@ -96,3 +96,5 @@ Resolved CORS policy issue for cross-origin requests 🦺
 
 Added rate limiting to prevent abuse of services ⏱️
 
+Implemented responsive design for mobile compatibility 📱
+
