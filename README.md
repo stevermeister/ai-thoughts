@@ -94,3 +94,5 @@ Refactored CSS using utility classes for maintainability 🧵
 
 Resolved CORS policy issue for cross-origin requests 🦺
 
+Added rate limiting to prevent abuse of services ⏱️
+
