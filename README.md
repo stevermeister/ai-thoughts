@@ -116,3 +116,5 @@ Implemented geolocation tracking for location-based services 🌍
 
 Resolved issue causing application crashes 🚫
 
+Refactored code using design patterns for scalability 🔄
+
