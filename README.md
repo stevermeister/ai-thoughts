@@ -118,3 +118,5 @@ Resolved issue causing application crashes 🚫
 
 Refactored code using design patterns for scalability 🔄
 
+Fixed routing issue leading to 404 errors 🚧
+
