@@ -108,3 +108,5 @@ Implemented batch job processing for large datasets 📦
 
 Optimized SQL queries for faster data retrieval 🐘
 
+Fixed broken functionality in user registration process 🚪
+
