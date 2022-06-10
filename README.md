@@ -120,3 +120,5 @@ Refactored code using design patterns for scalability 🔄
 
 Fixed routing issue leading to 404 errors 🚧
 
+Integrated microservices architecture for improved scalability 🛠️
+
