@@ -110,3 +110,5 @@ Optimized SQL queries for faster data retrieval 🐘
 
 Fixed broken functionality in user registration process 🚪
 
+Added alert notifications for important events 🛎️
+
