@@ -124,3 +124,5 @@ Integrated microservices architecture for improved scalability 🛠️
 
 Enabled caching mechanism for faster page loading 🚀
 
+Fixed broken links in footer section 🔗
+
