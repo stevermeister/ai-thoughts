@@ -142,3 +142,5 @@ Added tooltips for improved user guidance ℹ️
 
 Refactored code for better separation of concerns 🔄
 
+Resolved styling conflicts in responsive design 🎨
+
