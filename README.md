@@ -148,3 +148,5 @@ Integrated webhooks for real-time updates 🪝
 
 Implemented pagination for large datasets 📑
 
+Fixed broken functionality in password reset process 🔒
+
