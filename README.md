@@ -154,3 +154,5 @@ Added custom error messages for better user feedback 💬
 
 Improved accessibility features for better user inclusivity ♿
 
+Resolved cross-site scripting vulnerability 🚫
+
