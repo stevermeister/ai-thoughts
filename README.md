@@ -152,3 +152,5 @@ Fixed broken functionality in password reset process 🔒
 
 Added custom error messages for better user feedback 💬
 
+Improved accessibility features for better user inclusivity ♿
+
