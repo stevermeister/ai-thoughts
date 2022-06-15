@@ -168,3 +168,5 @@ Resolved issue causing application freezing 🥶
 
 Added feature flag for experimental features 🚩
 
+Optimized image compression for faster load times 🖼️
+
