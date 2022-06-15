@@ -166,3 +166,5 @@ Refactored code to adhere to code style guidelines 👔
 
 Resolved issue causing application freezing 🥶
 
+Added feature flag for experimental features 🚩
+
