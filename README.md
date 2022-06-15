@@ -164,3 +164,5 @@ Implemented multi-factor authentication for enhanced security 🔒
 
 Refactored code to adhere to code style guidelines 👔
 
+Resolved issue causing application freezing 🥶
+
