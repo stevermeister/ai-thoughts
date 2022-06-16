@@ -176,3 +176,5 @@ Refactored code to improve efficiency and readability 🛠️
 
 Added new feature to enhance user experience 👩‍💻
 
+Fixed bug causing unexpected behavior 🐛
+
