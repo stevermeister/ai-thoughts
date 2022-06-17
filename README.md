@@ -194,3 +194,5 @@ Reorganized project structure for better organization 📁
 
 Improved documentation for clearer understanding 📚
 
+Synced with upstream repository for latest updates 🔄
+
