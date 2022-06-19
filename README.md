@@ -202,3 +202,5 @@ Fixed styling issues reported by users 💅
 
 Added validation to input fields for data integrity 📝
 
+Optimized images for faster loading 🖼️
+
