@@ -200,3 +200,5 @@ Implemented responsive design for mobile compatibility 📱
 
 Fixed styling issues reported by users 💅
 
+Added validation to input fields for data integrity 📝
+
