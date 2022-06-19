@@ -204,3 +204,5 @@ Added validation to input fields for data integrity 📝
 
 Optimized images for faster loading 🖼️
 
+Enhanced error messages for better user experience ⚠️
+
