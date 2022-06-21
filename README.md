@@ -220,3 +220,5 @@ Fixed CORS issue to allow cross-origin requests 🔄
 
 Optimized front-end performance for smoother user interactions 🖥️
 
+Refactored backend logic for improved scalability 🚀
+
