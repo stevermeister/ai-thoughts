@@ -226,3 +226,5 @@ Implemented dark mode for enhanced user experience 🌙
 
 Added animated transitions for visual appeal ✨
 
+Enabled caching to reduce load times ⏳
+
