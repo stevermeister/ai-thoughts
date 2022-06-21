@@ -216,3 +216,5 @@ Added logging functionality for better monitoring 📋
 
 Implemented new API endpoint for additional functionality 🕸️
 
+Fixed CORS issue to allow cross-origin requests 🔄
+
