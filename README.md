@@ -224,3 +224,5 @@ Refactored backend logic for improved scalability 🚀
 
 Implemented dark mode for enhanced user experience 🌙
 
+Added animated transitions for visual appeal ✨
+
