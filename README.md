@@ -236,3 +236,5 @@ Refactored codebase to comply with coding standards 📏
 
 Enhanced UI components for better aesthetics 💻
 
+Added support for multi-language localization 🌐
+
