@@ -250,3 +250,5 @@ Embedded analytics for data-driven insights 📈
 
 Implemented password hashing for secure storage 🔑
 
+Optimized images for retina displays 🖼️
+
