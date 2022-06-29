@@ -256,3 +256,5 @@ Added progress indicators for better user feedback 🔄
 
 Enhanced accessibility features for inclusive design ⌨️
 
+Fixed memory leak causing app crashes 🧠
+
