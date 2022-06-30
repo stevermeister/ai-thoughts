@@ -284,3 +284,5 @@ Implemented feature toggles for controlled rollouts 🎚️
 
 Fixed memory consumption issue leading to crashes 💥
 
+Added admin panel for easier management 🛠️
+
