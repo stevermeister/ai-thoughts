@@ -272,3 +272,5 @@ Added tooltips for helpful hints ℹ️
 
 Optimized CSS for faster rendering 🎨
 
+Fixed broken image links causing missing assets 🖼️
+
