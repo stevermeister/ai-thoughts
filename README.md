@@ -276,3 +276,5 @@ Fixed broken image links causing missing assets 🖼️
 
 Implemented pagination for better content navigation 📄
 
+Added error logging for easier debugging 🪵
+
