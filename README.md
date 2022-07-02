@@ -290,3 +290,5 @@ Implemented frontend caching for faster page loads ⏳
 
 Optimized SVG icons for smaller file sizes 🖼️
 
+Fixed localization bug causing language switch issues 🌐
+
