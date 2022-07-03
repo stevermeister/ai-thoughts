@@ -300,3 +300,5 @@ Optimized HTTP requests for faster data transfer 🌐
 
 Fixed floating point precision issue in calculations 🧮
 
+Implemented dark theme switch for user customization 🌑
+
