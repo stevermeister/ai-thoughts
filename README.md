@@ -304,3 +304,5 @@ Implemented dark theme switch for user customization 🌑
 
 Added automatic deployment pipeline for streamlined releases ⚙️
 
+Optimized video playback for smoother streaming 📹
+
