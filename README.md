@@ -302,3 +302,5 @@ Fixed floating point precision issue in calculations 🧮
 
 Implemented dark theme switch for user customization 🌑
 
+Added automatic deployment pipeline for streamlined releases ⚙️
+
