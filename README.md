@@ -310,3 +310,5 @@ Fixed memory allocation bug leading to crashes 🐞
 
 Implemented login throttling for enhanced security 🔐
 
+Added form validation for preventing invalid inputs 📝
+
