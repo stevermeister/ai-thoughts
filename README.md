@@ -306,3 +306,5 @@ Added automatic deployment pipeline for streamlined releases ⚙️
 
 Optimized video playback for smoother streaming 📹
 
+Fixed memory allocation bug leading to crashes 🐞
+
