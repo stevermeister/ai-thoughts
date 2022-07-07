@@ -334,3 +334,5 @@ Implemented JWT authentication for secure API access 🔐
 
 Fixed XSS vulnerability for preventing cross-site scripting 🚫
 
+Added breadcrumb navigation for easier user traversal 🍞
+
