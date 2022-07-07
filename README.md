@@ -330,3 +330,5 @@ Added toast notifications for user feedback 🍞
 
 Optimized file compression for faster downloads 📦
 
+Implemented JWT authentication for secure API access 🔐
+
