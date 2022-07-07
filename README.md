@@ -328,3 +328,5 @@ Fixed race condition causing unexpected behavior 🏁
 
 Added toast notifications for user feedback 🍞
 
+Optimized file compression for faster downloads 📦
+
