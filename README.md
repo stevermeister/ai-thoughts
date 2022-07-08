@@ -346,3 +346,5 @@ Added dark mode preference storage for user convenience 🌒
 
 Optimized CSS grid layout for responsive design 📏
 
+Implemented password strength meter for secure registrations 🔒
+
