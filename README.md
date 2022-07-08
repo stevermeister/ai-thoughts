@@ -342,3 +342,5 @@ Implemented web sockets for real-time communication 🌐
 
 Fixed memory overrun leading to system crashes 🚨
 
+Added dark mode preference storage for user convenience 🌒
+
