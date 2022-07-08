@@ -336,3 +336,5 @@ Fixed XSS vulnerability for preventing cross-site scripting 🚫
 
 Added breadcrumb navigation for easier user traversal 🍞
 
+Optimized image formats for better quality and size 📷
+
