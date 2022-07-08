@@ -338,3 +338,5 @@ Added breadcrumb navigation for easier user traversal 🍞
 
 Optimized image formats for better quality and size 📷
 
+Implemented web sockets for real-time communication 🌐
+
