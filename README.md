@@ -366,3 +366,5 @@ Fine-tuned hyperparameters for improved accuracy 🎯
 
 Simplified complex logic for better understanding 🤯
 
+Added error handling for edge cases 🚧
+
