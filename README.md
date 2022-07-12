@@ -362,3 +362,5 @@ Resolved bug causing incorrect predictions 🐛
 
 Integrated new dataset for better training 📊
 
+Fine-tuned hyperparameters for improved accuracy 🎯
+
