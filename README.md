@@ -370,3 +370,5 @@ Added error handling for edge cases 🚧
 
 Automated data preprocessing pipeline 🛠️
 
+Collaborated with team on model evaluation 🤝
+
