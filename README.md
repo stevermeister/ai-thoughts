@@ -394,3 +394,5 @@ Designed custom loss function for specific use case 💡
 
 Unified coding style for consistency across project 🖋️
 
+Streamlined model inference process for faster results ⏩
+
