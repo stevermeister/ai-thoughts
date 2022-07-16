@@ -396,3 +396,5 @@ Unified coding style for consistency across project 🖋️
 
 Streamlined model inference process for faster results ⏩
 
+Investigated anomaly detection techniques for outlier detection 🕵️‍♂️
+
