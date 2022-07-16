@@ -392,3 +392,5 @@ Conducted A/B testing to validate model improvements 🧪
 
 Designed custom loss function for specific use case 💡
 
+Unified coding style for consistency across project 🖋️
+
