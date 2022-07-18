@@ -428,3 +428,5 @@ Automated model evaluation metrics calculation 📊
 
 Developed custom activation function for nonlinear mappings 🔴
 
+Implemented adversarial training for robustness against attacks ⚔️
+
