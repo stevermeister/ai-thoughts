@@ -424,3 +424,5 @@ Optimized model architecture for faster inference 🏎️
 
 Enhanced model generalization for better out-of-sample performance 📊
 
+Automated model evaluation metrics calculation 📊
+
