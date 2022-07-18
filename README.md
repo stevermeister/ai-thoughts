@@ -416,3 +416,5 @@ Streamlined continuous integration workflow for faster feedback ⏩
 
 Integrated model monitoring for performance tracking 📈
 
+Implemented attention mechanism for sequence modeling 🧠
+
