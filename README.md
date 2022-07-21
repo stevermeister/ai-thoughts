@@ -456,3 +456,5 @@ Refined loss function to better capture task-specific objectives 📉
 
 Implemented model compression techniques for deployment 📦
 
+Deployed model on cloud platform for scalable inference ☁️
+
