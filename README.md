@@ -444,3 +444,5 @@ Integrated model explainability tools for interpretation 📊
 
 Improved model performance through ensembling techniques 🎶
 
+Revamped user interface for better user experience 💻
+
