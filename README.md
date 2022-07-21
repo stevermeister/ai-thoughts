@@ -446,3 +446,5 @@ Improved model performance through ensembling techniques 🎶
 
 Revamped user interface for better user experience 💻
 
+Triaged and resolved model performance bottlenecks 🍾
+
