@@ -454,3 +454,5 @@ Validated model robustness against adversarial attacks ⚠️
 
 Refined loss function to better capture task-specific objectives 📉
 
+Implemented model compression techniques for deployment 📦
+
