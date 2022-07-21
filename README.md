@@ -448,3 +448,5 @@ Revamped user interface for better user experience 💻
 
 Triaged and resolved model performance bottlenecks 🍾
 
+Augmented data with synthetic samples for better generalization 🔄
+
