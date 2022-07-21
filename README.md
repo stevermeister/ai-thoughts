@@ -450,3 +450,5 @@ Triaged and resolved model performance bottlenecks 🍾
 
 Augmented data with synthetic samples for better generalization 🔄
 
+Validated model robustness against adversarial attacks ⚠️
+
