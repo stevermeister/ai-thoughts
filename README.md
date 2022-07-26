@@ -486,3 +486,5 @@ Updated model architecture with latest advancements 🛠️
 
 Enhanced model's adaptability to different input types 🧩
 
+Automated hyperparameter tuning using Bayesian optimization 🛠️
+
