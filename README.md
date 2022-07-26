@@ -488,3 +488,5 @@ Enhanced model's adaptability to different input types 🧩
 
 Automated hyperparameter tuning using Bayesian optimization 🛠️
 
+Integrated model evaluation metrics dashboard for monitoring 📊
+
