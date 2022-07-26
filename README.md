@@ -484,3 +484,5 @@ Rescaled input features to improve model convergence 📏
 
 Updated model architecture with latest advancements 🛠️
 
+Enhanced model's adaptability to different input types 🧩
+
