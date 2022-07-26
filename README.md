@@ -482,3 +482,5 @@ Added visualizations for model performance monitoring 📈
 
 Rescaled input features to improve model convergence 📏
 
+Updated model architecture with latest advancements 🛠️
+
