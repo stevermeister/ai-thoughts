@@ -480,3 +480,5 @@ Optimized gradient descent algorithm for faster convergence 🚴
 
 Added visualizations for model performance monitoring 📈
 
+Rescaled input features to improve model convergence 📏
+
