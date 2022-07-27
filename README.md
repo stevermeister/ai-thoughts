@@ -514,3 +514,5 @@ Implemented gradient clipping to improve model stability 🧯
 
 Merged feature branch into main branch successfully 🌿
 
+Optimized model inference speed using quantization techniques ⚙️
+
