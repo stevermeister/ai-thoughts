@@ -508,3 +508,5 @@ Fine-tuned model hyperparameters for optimal results 🎚️
 
 Integrated pre-trained embeddings for language model 🎯
 
+Added regularization term to loss function for better generalization 🎯
+
