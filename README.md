@@ -516,3 +516,5 @@ Merged feature branch into main branch successfully 🌿
 
 Optimized model inference speed using quantization techniques ⚙️
 
+Customized model architecture for specific use case 🛠️
+
