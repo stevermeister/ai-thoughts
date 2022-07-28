@@ -520,3 +520,5 @@ Customized model architecture for specific use case 🛠️
 
 Investigated gradient boosting for ensemble learning 🎢
 
+Automated data quality checks in preprocessing pipeline 🧪
+
