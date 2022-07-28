@@ -522,3 +522,5 @@ Investigated gradient boosting for ensemble learning 🎢
 
 Automated data quality checks in preprocessing pipeline 🧪
 
+Implemented self-supervised learning for feature representation 🎓
+
