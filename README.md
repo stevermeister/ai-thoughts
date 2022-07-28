@@ -524,3 +524,5 @@ Automated data quality checks in preprocessing pipeline 🧪
 
 Implemented self-supervised learning for feature representation 🎓
 
+Generated synthetic samples to balance imbalanced dataset 🔄
+
