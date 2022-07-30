@@ -528,3 +528,5 @@ Generated synthetic samples to balance imbalanced dataset 🔄
 
 Localized model for specific language requirements 🌏
 
+Deployed model updates without downtime using Blue-Green deployment 🚦
+
