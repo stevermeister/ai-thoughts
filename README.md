@@ -530,3 +530,5 @@ Localized model for specific language requirements 🌏
 
 Deployed model updates without downtime using Blue-Green deployment 🚦
 
+Refactored project structure for better organization 🗂️
+
