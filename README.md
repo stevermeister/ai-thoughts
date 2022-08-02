@@ -556,3 +556,5 @@ Synchronized data across platforms for seamless integration 🔄
 
 Developed AI assistant for enhanced user experience 🌟
 
+Augmented reality functionalities for immersive interactions 🌌
+
