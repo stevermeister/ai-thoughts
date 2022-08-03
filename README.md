@@ -560,3 +560,5 @@ Augmented reality functionalities for immersive interactions 🌌
 
 Enhanced natural language processing capabilities 🗣️
 
+Deployed machine learning models on cloud infrastructure ☁️
+
