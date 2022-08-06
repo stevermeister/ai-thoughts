@@ -570,3 +570,5 @@ Implemented sentiment analysis for insightful feedback 📝
 
 Leveraged unsupervised learning for hidden patterns discovery 🔎
 
+Trained models with transfer learning for faster convergence ⚡
+
