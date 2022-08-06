@@ -572,3 +572,5 @@ Leveraged unsupervised learning for hidden patterns discovery 🔎
 
 Trained models with transfer learning for faster convergence ⚡
 
+Customized recommendation systems for personalized suggestions 🛍️
+
