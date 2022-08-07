@@ -600,3 +600,5 @@ Built personalized AI models for tailored recommendations 🎯
 
 Enabled emotion recognition for empathetic interactions 🧡
 
+Combined AI and IoT for smart automation solutions 🏡
+
