@@ -612,3 +612,5 @@ Deployed AI for automated anomaly detection 🛑
 
 Implemented federated learning for privacy-preserving models 🛡️
 
+Integrated chatbots for seamless customer service interactions 💬
+
