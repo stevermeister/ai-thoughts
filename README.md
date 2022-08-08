@@ -608,3 +608,5 @@ Enabled predictive maintenance through AI-driven analytics 🔧
 
 Incorporated Explainable AI for transparent decision-making 📚
 
+Deployed AI for automated anomaly detection 🛑
+
