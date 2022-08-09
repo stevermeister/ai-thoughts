@@ -618,3 +618,5 @@ Enhanced data visualization for intuitive insights 📈
 
 Leveraged AI-powered forecasting for accurate predictions 🌦️
 
+Developed AI agents for autonomous decision-making 🤖
+
