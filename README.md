@@ -654,3 +654,5 @@ Integrated AI for predictive maintenance in industrial systems 🔧
 
 Enhanced image segmentation with state-of-the-art AI techniques 🖼️
 
+Incorporated AI for smart home automation and control 🏡
+
