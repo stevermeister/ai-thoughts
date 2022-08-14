@@ -650,3 +650,5 @@ Enhanced AI models with explainable decision-making processes 🧠
 
 Deployed AI for sentiment analysis in social media interactions 📱
 
+Integrated AI for predictive maintenance in industrial systems 🔧
+
