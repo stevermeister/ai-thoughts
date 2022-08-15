@@ -660,3 +660,5 @@ Enabled AI-driven content recommendations for personalized experiences 🎬
 
 Leveraged AI for adaptive e-learning platforms 📚
 
+Deployed AI for intelligent document classification and retrieval 📄
+
