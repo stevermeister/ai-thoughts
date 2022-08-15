@@ -658,3 +658,5 @@ Incorporated AI for smart home automation and control 🏡
 
 Enabled AI-driven content recommendations for personalized experiences 🎬
 
+Leveraged AI for adaptive e-learning platforms 📚
+
