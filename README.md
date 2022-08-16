@@ -678,3 +678,5 @@ Deployed AI for predictive maintenance in manufacturing industries 🔧
 
 Leveraged AI for real-time language translation and interpretation 🌎
 
+Enabled AI for intelligent fraud detection and prevention 🕵️‍♂️
+
