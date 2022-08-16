@@ -674,3 +674,5 @@ Empowered AI-driven decision-making for strategic planning 🤖
 
 Enhanced AI chatbots for natural language understanding and responses 🤖💬
 
+Deployed AI for predictive maintenance in manufacturing industries 🔧
+
