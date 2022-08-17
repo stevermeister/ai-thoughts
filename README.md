@@ -692,3 +692,5 @@ Enhanced AI-powered recommendation engines for personalized content 🎬
 
 Deployed AI in the automotive industry for autonomous driving technologies 🚗🤖
 
+Leveraged AI for efficient energy management and sustainability 💡🌿
+
