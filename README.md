@@ -694,3 +694,5 @@ Deployed AI in the automotive industry for autonomous driving technologies 🚗�
 
 Leveraged AI for efficient energy management and sustainability 💡🌿
 
+Enabled AI for predictive analytics in financial markets 📈💵
+
