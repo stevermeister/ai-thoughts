@@ -706,3 +706,5 @@ Enhanced AI models with fairness and bias mitigation strategies 🤖🚫
 
 Deployed AI for personalized healthcare solutions and disease diagnosis 🩺💊
 
+Leveraged AI for accurate weather forecasting and climate modeling 🌧️🌍
+
