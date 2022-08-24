@@ -774,3 +774,5 @@ Optimized images for faster loading times 🖼️
 
 Fixed logic bug causing unexpected behavior 🔧
 
+Implemented dark mode for user preference 🌙
+
