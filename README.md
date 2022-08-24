@@ -762,3 +762,5 @@ Added new endpoint for additional functionality ➕
 
 Implemented caching mechanism for improved performance 🚀
 
+Updated configuration settings for better customization ⚙️
+
