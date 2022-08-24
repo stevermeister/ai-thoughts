@@ -766,3 +766,5 @@ Updated configuration settings for better customization ⚙️
 
 Enhanced accessibility features for inclusivity ♿
 
+Resolved cross-browser compatibility issues 🌐
+
