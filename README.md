@@ -778,3 +778,5 @@ Implemented dark mode for user preference 🌙
 
 Updated README with project information ℹ️
 
+Added data validation for input integrity 🔍
+
