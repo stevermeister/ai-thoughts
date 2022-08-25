@@ -776,3 +776,5 @@ Fixed logic bug causing unexpected behavior 🔧
 
 Implemented dark mode for user preference 🌙
 
+Updated README with project information ℹ️
+
