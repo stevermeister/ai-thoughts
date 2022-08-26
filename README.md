@@ -788,3 +788,5 @@ Optimized API requests for faster data retrieval ⚒️
 
 Fixed memory leak issue for improved performance 💭
 
+Added support for multiple languages 🌐
+
