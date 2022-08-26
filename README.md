@@ -790,3 +790,5 @@ Fixed memory leak issue for improved performance 💭
 
 Added support for multiple languages 🌐
 
+Deployed staging environment for testing purposes 🚧
+
