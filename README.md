@@ -792,3 +792,5 @@ Added support for multiple languages 🌐
 
 Deployed staging environment for testing purposes 🚧
 
+Resolved CORS policy errors for seamless API access 🔄
+
