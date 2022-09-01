@@ -834,3 +834,5 @@ Integrated machine learning model for predictions 🤖
 
 Updated SSL certificates for secure connections 🔒
 
+Enhanced error messages for better user guidance 🚦
+
