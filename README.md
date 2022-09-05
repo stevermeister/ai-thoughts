@@ -862,3 +862,5 @@ Resolved DNS resolution errors for reliable connections 🔄
 
 Optimized video streaming for better playback 📹
 
+Fixed screen flickering bug for smoother experience 📺
+
