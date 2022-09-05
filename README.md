@@ -864,3 +864,5 @@ Optimized video streaming for better playback 📹
 
 Fixed screen flickering bug for smoother experience 📺
 
+Implemented gesture recognition for interactive features 🤲
+
