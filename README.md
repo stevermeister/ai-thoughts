@@ -856,3 +856,5 @@ Added pagination for easier navigation 📄
 
 Implemented predictive text input for efficiency 📈
 
+Updated package manager for dependency management ⚙️
+
