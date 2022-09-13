@@ -940,3 +940,5 @@ Integrated API for seamless data exchange 🔄
 
 Fixed CSS styling for better layout 🖌️
 
+Reorganized project structure for clarity 📂
+
