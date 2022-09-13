@@ -942,3 +942,5 @@ Fixed CSS styling for better layout 🖌️
 
 Reorganized project structure for clarity 📂
 
+Implemented caching mechanism for faster data retrieval 🚂
+
