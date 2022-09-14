@@ -960,3 +960,5 @@ Fine-tuned algorithm parameters for accuracy 🎯
 
 Added logging for better debugging 🪵
 
+Improved error messages for better user feedback 📢
+
