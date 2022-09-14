@@ -962,3 +962,5 @@ Added logging for better debugging 🪵
 
 Improved error messages for better user feedback 📢
 
+Deployed application to production server 🚚
+
