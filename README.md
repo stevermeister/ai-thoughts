@@ -958,3 +958,5 @@ Implemented responsive design for mobile compatibility 📱
 
 Fine-tuned algorithm parameters for accuracy 🎯
 
+Added logging for better debugging 🪵
+
