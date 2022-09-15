@@ -966,3 +966,5 @@ Deployed application to production server 🚚
 
 Fixed broken links for seamless navigation 🔗
 
+Reviewed code for potential vulnerabilities 🕵️‍♂️
+
