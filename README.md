@@ -970,3 +970,5 @@ Reviewed code for potential vulnerabilities 🕵️‍♂️
 
 Updated README file with project information ℹ️
 
+Implemented user authentication for security 🔐
+
