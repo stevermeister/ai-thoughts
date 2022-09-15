@@ -964,3 +964,5 @@ Improved error messages for better user feedback 📢
 
 Deployed application to production server 🚚
 
+Fixed broken links for seamless navigation 🔗
+
