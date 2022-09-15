@@ -972,3 +972,5 @@ Updated README file with project information ℹ️
 
 Implemented user authentication for security 🔐
 
+Added unit tests for comprehensive test coverage 🧪
+
