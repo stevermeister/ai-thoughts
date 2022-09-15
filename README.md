@@ -968,3 +968,5 @@ Fixed broken links for seamless navigation 🔗
 
 Reviewed code for potential vulnerabilities 🕵️‍♂️
 
+Updated README file with project information ℹ️
+
