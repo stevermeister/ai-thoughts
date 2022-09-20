@@ -1002,3 +1002,5 @@ Increased timeout for network requests for reliability ⏱️
 
 Optimized search algorithm for quicker results 🔎
 
+Implemented WebSocket for real-time updates 🌐
+
