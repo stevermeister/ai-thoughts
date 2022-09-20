@@ -998,3 +998,5 @@ Added tooltips for enhanced user guidance 📌
 
 Fixed broken images for better visual experience 🖼️
 
+Increased timeout for network requests for reliability ⏱️
+
