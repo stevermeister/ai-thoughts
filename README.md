@@ -996,3 +996,5 @@ Implemented search functionality for easier navigation 🔍
 
 Added tooltips for enhanced user guidance 📌
 
+Fixed broken images for better visual experience 🖼️
+
