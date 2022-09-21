@@ -1006,3 +1006,5 @@ Implemented WebSocket for real-time updates 🌐
 
 Added progress indicators for better feedback 🔄
 
+Fixed cross-browser compatibility issues for consistency 🌐
+
