@@ -1012,3 +1012,5 @@ Implemented lazy loading for improved performance ⏳
 
 Fine-tuned API endpoints for efficiency 🛠️
 
+Updated copyright information for compliance ©️
+
