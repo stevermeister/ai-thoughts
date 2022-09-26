@@ -1020,3 +1020,5 @@ Fixed formatting issues for better presentation 📄
 
 Refactored backend code for scalability 🖥️
 
+Implemented cron job for scheduled tasks ⏲️
+
