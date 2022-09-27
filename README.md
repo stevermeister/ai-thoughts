@@ -1046,3 +1046,5 @@ Added geolocation feature for location-based services 🗺️
 
 Optimized SEO for better search engine visibility 🌐
 
+Added password strength meter for security 🔒
+
