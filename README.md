@@ -1062,3 +1062,5 @@ Implemented JWT authentication for secure access 🔐
 
 Fixed memory leaks for improved resource management 🧽
 
+Refactored routing logic for better navigation 🛣️
+
