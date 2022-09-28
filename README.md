@@ -1056,3 +1056,5 @@ Integrated payment gateway for transactions 💳
 
 Optimized SQL queries for faster database operations 🗃️
 
+Added image lazy loading for faster page loading 🖼️
+
