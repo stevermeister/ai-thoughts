@@ -1058,3 +1058,5 @@ Optimized SQL queries for faster database operations 🗃️
 
 Added image lazy loading for faster page loading 🖼️
 
+Implemented JWT authentication for secure access 🔐
+
