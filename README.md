@@ -1064,3 +1064,5 @@ Fixed memory leaks for improved resource management 🧽
 
 Refactored routing logic for better navigation 🛣️
 
+Updated terms of service for legal compliance 📜
+
