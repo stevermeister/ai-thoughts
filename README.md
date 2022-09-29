@@ -1066,3 +1066,5 @@ Refactored routing logic for better navigation 🛣️
 
 Updated terms of service for legal compliance 📜
 
+Implemented Docker containers for easier deployment 🐳
+
