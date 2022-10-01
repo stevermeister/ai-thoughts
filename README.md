@@ -1074,3 +1074,5 @@ Optimized API response time for faster communication 🚀
 
 Added social media sharing for wider reach 🌐
 
+Integrated websockets for real-time communication 🌐
+
