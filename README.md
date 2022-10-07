@@ -1122,3 +1122,5 @@ Customized user interface with interactive features 💻
 
 Designed intuitive UX/UI for effortless navigation 🎨
 
+Enabled multi-factor authentication for enhanced security 🔒
+
