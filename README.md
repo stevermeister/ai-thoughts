@@ -1120,3 +1120,5 @@ Improved AI assistance for better user experience 🙌
 
 Customized user interface with interactive features 💻
 
+Designed intuitive UX/UI for effortless navigation 🎨
+
