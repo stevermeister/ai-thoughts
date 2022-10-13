@@ -1158,3 +1158,5 @@ Customized data visualization dashboards for insights 📊
 
 Enhanced error handling mechanisms for robustness 🛠️
 
+Deployed AI model in cloud environment ☁️
+
