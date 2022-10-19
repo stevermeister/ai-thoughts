@@ -1200,3 +1200,5 @@ Refined model accuracy through cross-validation 🎯
 
 Updated API endpoints for seamless integration 🔗
 
+Integrated GPU acceleration for faster computations ⚡
+
