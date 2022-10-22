@@ -1236,3 +1236,5 @@ Refactored legacy code for modern AI capabilities 🏗️
 
 Resolved performance bottlenecks in model training 🚧
 
+Enabled model inference on edge devices for edge computing 📱
+
