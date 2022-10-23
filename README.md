@@ -1246,3 +1246,5 @@ Improved AI model interpretability with explainable AI techniques 🧐
 
 Developed AI model for personalized recommendations 💡
 
+Enabled federated learning for collaborative model training 🤝
+
