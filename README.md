@@ -1332,3 +1332,5 @@ Refactored class inheritance for better code structure 🏗️
 
 Added pagination feature for large datasets 📄
 
+Resolved encoding issue for cross-platform compatibility 💻
+
