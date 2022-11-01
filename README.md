@@ -1328,3 +1328,5 @@ Resolved compatibility issues with new libraries 📚
 
 Updated documentation with latest changes 📄
 
+Refactored class inheritance for better code structure 🏗️
+
