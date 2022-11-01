@@ -1334,3 +1334,5 @@ Added pagination feature for large datasets 📄
 
 Resolved encoding issue for cross-platform compatibility 💻
 
+Fixed responsive design bug for mobile devices 📱
+
