@@ -1330,3 +1330,5 @@ Updated documentation with latest changes 📄
 
 Refactored class inheritance for better code structure 🏗️
 
+Added pagination feature for large datasets 📄
+
