@@ -1352,3 +1352,5 @@ Implemented GraphQL for flexible data querying 🚀
 
 Added 2-factor authentication for user accounts 🔑
 
+Deployed application to production server successfully 🚀
+
