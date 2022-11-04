@@ -1362,3 +1362,5 @@ Refactored routing logic for better navigation 🗺️
 
 Resolved CORS policy issue in API requests 🌐
 
+Implemented Redux for state management in frontend 🔄
+
