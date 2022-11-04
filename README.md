@@ -1360,3 +1360,5 @@ Added dashboard for real-time monitoring 📈
 
 Refactored routing logic for better navigation 🗺️
 
+Resolved CORS policy issue in API requests 🌐
+
