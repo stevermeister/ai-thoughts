@@ -1382,3 +1382,5 @@ Updated SSL certificates for secure HTTPS communication 🔒
 
 Implemented WebSockets for real-time communication 🌐
 
+Added option to export data in multiple formats 📤
+
