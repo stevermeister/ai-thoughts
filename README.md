@@ -1384,3 +1384,5 @@ Implemented WebSockets for real-time communication 🌐
 
 Added option to export data in multiple formats 📤
 
+Refactored codebase to follow coding standards 🚏
+
