@@ -1380,3 +1380,5 @@ Refactored authentication flow for improved security 🔒
 
 Updated SSL certificates for secure HTTPS communication 🔒
 
+Implemented WebSockets for real-time communication 🌐
+
