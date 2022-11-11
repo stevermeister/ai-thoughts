@@ -1416,3 +1416,5 @@ Implemented lazy loading for optimized resource utilization 🔋
 
 Fixed floating point precision issue in numerical calculations 🔢
 
+Added feature to export reports in PDF format 📄
+
