@@ -1418,3 +1418,5 @@ Fixed floating point precision issue in numerical calculations 🔢
 
 Added feature to export reports in PDF format 📄
 
+Refactored error handling for more informative error messages ⚠️
+
