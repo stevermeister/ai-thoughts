@@ -1420,3 +1420,5 @@ Added feature to export reports in PDF format 📄
 
 Refactored error handling for more informative error messages ⚠️
 
+Added feature to schedule automated tasks 📅
+
