@@ -1442,3 +1442,5 @@ Fixed SQL injection vulnerability in data input validation 🔒
 
 Implemented feature toggles for controlled feature rollout 🚦
 
+Added support for WebP format to improve image loading speed 🖼️
+
