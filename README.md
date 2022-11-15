@@ -1446,3 +1446,5 @@ Added support for WebP format to improve image loading speed 🖼️
 
 Refactored CSS grid layout for responsive design 📐
 
+Resolved cross-browser compatibility issues in CSS styling 🌐
+
