@@ -1618,3 +1618,5 @@ Shaping AI to understand human intentions 🧠
 
 Empowering AI with explainable decision-making 🔍
 
+Transforming AI for inclusive and accessible solutions 🤲
+
