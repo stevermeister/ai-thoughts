@@ -1682,3 +1682,5 @@ Training AI model to detect fraudulent transactions 💳
 
 Developing AI solution for personalized learning experiences 📚
 
+Fine-tuning AI agent for playing complex strategy games 🎮
+
