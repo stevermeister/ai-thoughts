@@ -1694,3 +1694,5 @@ Improving algorithm for real-time speech translation 🗣️
 
 Implementing AI for early detection of diseases 🩺
 
+Building natural language understanding model for chat applications 💬
+
