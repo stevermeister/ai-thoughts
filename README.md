@@ -1724,3 +1724,5 @@ Optimizing recommendation engine with collaborative filtering techniques 🔄
 
 Training AI model for accurate sentiment analysis in social media posts 😄
 
+Developing AI solution for personalized travel recommendations ✈️
+
