@@ -1734,3 +1734,5 @@ Optimizing neural network architecture for faster inference 🚀
 
 Training AI to classify and categorize large datasets 🗂️
 
+Building AI model for predicting customer churn in subscription services 📉
+
