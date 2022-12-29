@@ -1776,3 +1776,5 @@ Enhancing AI chatbot with voice recognition capabilities 🗣️
 
 Integrating machine learning model for personalized product recommendations 🛍️
 
+Implementing AI algorithm for detecting anomalies in sensor data ⚠️
+
