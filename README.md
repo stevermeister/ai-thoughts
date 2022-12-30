@@ -1784,3 +1784,5 @@ Training AI model for accurate detection of wildlife species 🐾
 
 Developing AI solution for personalized healthcare recommendations 🏥
 
+Building AI model for speech-to-text conversion with high accuracy 🎙️
+
