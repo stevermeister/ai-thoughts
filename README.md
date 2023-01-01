@@ -1820,3 +1820,5 @@ Deploying AI-powered virtual mentor for personalized skill development 🧠
 
 Enhancing AI chatbot with contextually relevant responses 🤖
 
+Improving recommendation engine accuracy with collaborative filtering 🤝
+
