@@ -1842,3 +1842,5 @@ Integrated surveillance system for data monitoring 🕵️‍♂️
 
 Designed virtual assistant for seamless communication 💬
 
+Augmented reality for real-time visualization 🌟
+
