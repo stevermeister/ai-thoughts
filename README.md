@@ -2028,3 +2028,5 @@ Generating innovative solutions through AI creativity 🎨
 
 Building AI systems that prioritize user privacy 🔒
 
+Infusing compassion into AI algorithms ❤️
+
