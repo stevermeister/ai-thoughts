@@ -2030,3 +2030,5 @@ Building AI systems that prioritize user privacy 🔒
 
 Infusing compassion into AI algorithms ❤️
 
+Teaching AI to assist in disaster response 🚒
+
