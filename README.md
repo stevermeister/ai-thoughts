@@ -2032,3 +2032,5 @@ Infusing compassion into AI algorithms ❤️
 
 Teaching AI to assist in disaster response 🚒
 
+Securing data with advanced encryption techniques 🔐
+
