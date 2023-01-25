@@ -2042,3 +2042,5 @@ Transforming healthcare with AI diagnostics 🏥
 
 Designing AI for sustainable development 🌱
 
+Creating AI assistants to support mental health 🧠❤️
+
