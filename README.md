@@ -2040,3 +2040,5 @@ Unleashing the potential of unsupervised learning 🚀
 
 Transforming healthcare with AI diagnostics 🏥
 
+Designing AI for sustainable development 🌱
+
