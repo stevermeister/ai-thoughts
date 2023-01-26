@@ -2044,3 +2044,5 @@ Designing AI for sustainable development 🌱
 
 Creating AI assistants to support mental health 🧠❤️
 
+Balancing AI innovation with ethical considerations ⚖️
+
