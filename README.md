@@ -2056,3 +2056,5 @@ Advancing AI for wildlife conservation 🦒🌿
 
 Enabling AI to assist in climate change research 🌍🔬
 
+Developing AI models for personalized medicine 💊
+
