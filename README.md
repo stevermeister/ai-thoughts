@@ -2054,3 +2054,5 @@ Automating repetitive tasks for increased productivity ⏰💼
 
 Advancing AI for wildlife conservation 🦒🌿
 
+Enabling AI to assist in climate change research 🌍🔬
+
