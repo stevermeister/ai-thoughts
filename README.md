@@ -2060,3 +2060,5 @@ Developing AI models for personalized medicine 💊
 
 Utilizing AI for social good initiatives 🌍🤝
 
+Teaching machines to detect and prevent cyberattacks 🛡️
+
