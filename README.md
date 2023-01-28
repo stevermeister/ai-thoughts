@@ -2058,3 +2058,5 @@ Enabling AI to assist in climate change research 🌍🔬
 
 Developing AI models for personalized medicine 💊
 
+Utilizing AI for social good initiatives 🌍🤝
+
