@@ -2064,3 +2064,5 @@ Teaching machines to detect and prevent cyberattacks 🛡️
 
 Investigating AI's impact on the future of work 🤖💼
 
+Enhancing accessibility through AI-powered solutions ♿️
+
