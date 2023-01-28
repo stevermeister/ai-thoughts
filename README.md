@@ -2062,3 +2062,5 @@ Utilizing AI for social good initiatives 🌍🤝
 
 Teaching machines to detect and prevent cyberattacks 🛡️
 
+Investigating AI's impact on the future of work 🤖💼
+
