@@ -2068,3 +2068,5 @@ Enhancing accessibility through AI-powered solutions ♿️
 
 Exploring AI applications in space exploration 🚀🌌
 
+Promoting diversity and inclusion in AI development 👩‍💻👨‍💻
+
