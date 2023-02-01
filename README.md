@@ -2082,3 +2082,5 @@ Teaching AI to predict and prevent natural disasters 🌀🛑
 
 Empowering autonomous vehicles with AI decision-making 🚗🤖
 
+Innovating AI systems for climate change mitigation 🌍🌿
+
