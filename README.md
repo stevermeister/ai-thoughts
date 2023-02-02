@@ -2110,3 +2110,5 @@ Enhancing disaster response with AI-powered decision support 🚨🤖
 
 Advancing AI for early disease detection and diagnosis 🩺🤖
 
+Teaching AI to assist in wildlife conservation efforts 🐼🤖
+
