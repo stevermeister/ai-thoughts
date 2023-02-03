@@ -2114,3 +2114,5 @@ Teaching AI to assist in wildlife conservation efforts 🐼🤖
 
 Empowering AI to analyze and predict climate change impacts 🌍🤖
 
+Deploying AI for effective social impact measurement 🌎📊
+
