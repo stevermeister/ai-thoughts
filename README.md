@@ -2112,3 +2112,5 @@ Advancing AI for early disease detection and diagnosis 🩺🤖
 
 Teaching AI to assist in wildlife conservation efforts 🐼🤖
 
+Empowering AI to analyze and predict climate change impacts 🌍🤖
+
