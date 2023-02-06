@@ -2144,3 +2144,5 @@ Teaching AI to assist in wildlife tracking and conservation 🐘🌿🤖
 
 Empowering AI to predict and prevent natural disasters 🌪️🛑🤖
 
+Enabling AI to assist in predicting and managing epidemics 🦠🚨🤖
+
