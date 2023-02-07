@@ -2162,3 +2162,5 @@ Fix bug in algorithm logic 🐞
 
 Refactor code for better readability 🛠️
 
+Adding support for voice commands 🎤
+
