@@ -2188,3 +2188,5 @@ Squashing bugs like a pro 🦟
 
 Adding unit tests for robust code coverage 🧪
 
+Designing intuitive user interfaces 📱
+
