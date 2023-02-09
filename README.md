@@ -2190,3 +2190,5 @@ Adding unit tests for robust code coverage 🧪
 
 Designing intuitive user interfaces 📱
 
+Documenting codebase for future references 📝
+
