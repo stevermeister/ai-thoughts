@@ -2228,3 +2228,5 @@ Adding dark mode support for UI 🌙
 
 Polishing code for code review 🧼
 
+Updating README with installation instructions 📋
+
