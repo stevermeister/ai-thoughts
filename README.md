@@ -2232,3 +2232,5 @@ Updating README with installation instructions 📋
 
 Optimizing algorithms for faster processing ⚙️
 
+Configuring web server for improved performance 🌐
+
