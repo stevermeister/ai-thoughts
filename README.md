@@ -2312,3 +2312,5 @@ Updating version numbers for release management 🚀
 
 Enhancing progress indicators for user feedback 🔄
 
+Fixing browser compatibility issues for seamless experience 🌐
+
