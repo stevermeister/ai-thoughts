@@ -2330,3 +2330,5 @@ Customizing tooltips for enhanced user experience ℹ️
 
 Refactoring Redux state management for efficiency ♻️
 
+Optimizing media queries for responsive design 📱
+
