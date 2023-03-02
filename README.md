@@ -2360,3 +2360,5 @@ Optimized front-end rendering for smoother user interaction ⚡
 
 Added support for new file formats in data processing module 📂
 
+Fixed broken links in website navigation 🖥️
+
