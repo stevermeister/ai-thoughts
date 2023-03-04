@@ -2374,3 +2374,5 @@ Added error handling for robustness in application execution ⚠️
 
 Optimized image loading for faster website performance 🌆
 
+Resolved compatibility issue with older browser versions 🖼️
+
