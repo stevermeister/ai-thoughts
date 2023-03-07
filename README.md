@@ -2428,3 +2428,5 @@ Implemented biometric authentication for enhanced security 🔒📲
 
 Fixed responsive design issue on smaller screen sizes 📱🔍
 
+Added support for dark mode theme preference 🌙
+
