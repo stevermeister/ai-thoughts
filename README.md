@@ -2430,3 +2430,5 @@ Fixed responsive design issue on smaller screen sizes 📱🔍
 
 Added support for dark mode theme preference 🌙
 
+Refactored API endpoints for better structured data retrieval 🌐
+
