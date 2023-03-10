@@ -2466,3 +2466,5 @@ Fixed CORS policy issue blocking cross-origin API requests 🌐🔒
 
 Added user profile customization feature for personalization 🧑💼
 
+Refactored backend API structure for clearer endpoint paths 🌐📁
+
