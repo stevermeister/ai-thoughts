@@ -2500,3 +2500,5 @@ Implemented automated deployment pipeline for continuous integration 🚀🛠️
 
 Fixed issue with CORS headers missing on API responses 🌐🔒
 
+Added user role management feature for access control permissions 👤🔒
+
