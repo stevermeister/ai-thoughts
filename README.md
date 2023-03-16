@@ -2502,3 +2502,5 @@ Fixed issue with CORS headers missing on API responses 🌐🔒
 
 Added user role management feature for access control permissions 👤🔒
 
+Refactored codebase to use dependency injection for modular design 📦➡️💡
+
