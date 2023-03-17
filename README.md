@@ -2514,3 +2514,5 @@ Fixed timezone conversion error affecting date calculations ⏰🔄
 
 Added support for real-time notifications using WebSocket protocol 🛎️📡
 
+Refactored code structure to follow SOLID principles 🏢🔨
+
