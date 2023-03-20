@@ -2548,3 +2548,5 @@ Refactored code for better readability 📚
 
 Added new features to enhance user experience 💻
 
+Documented project structure and dependencies 📝
+
