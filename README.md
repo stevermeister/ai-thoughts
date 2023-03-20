@@ -2550,3 +2550,5 @@ Added new features to enhance user experience 💻
 
 Documented project structure and dependencies 📝
 
+Integrated machine learning model with web app 🤖
+
