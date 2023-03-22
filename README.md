@@ -2570,3 +2570,5 @@ Updated README with installation instructions ℹ️
 
 Cleaned up unused code and dependencies 🧹
 
+Deployed application to cloud server ☁️
+
