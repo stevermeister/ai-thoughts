@@ -2568,3 +2568,5 @@ Enhanced security measures in authentication process 🔒
 
 Updated README with installation instructions ℹ️
 
+Cleaned up unused code and dependencies 🧹
+
