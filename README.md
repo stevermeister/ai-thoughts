@@ -2572,3 +2572,5 @@ Cleaned up unused code and dependencies 🧹
 
 Deployed application to cloud server ☁️
 
+Added unit tests for critical functions ✅
+
