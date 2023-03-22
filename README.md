@@ -2566,3 +2566,5 @@ Implemented data preprocessing pipeline 📊
 
 Enhanced security measures in authentication process 🔒
 
+Updated README with installation instructions ℹ️
+
