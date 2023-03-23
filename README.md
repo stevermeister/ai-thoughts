@@ -2592,3 +2592,5 @@ Refactored code to adhere to design patterns 🔄
 
 Integrated continuous integration pipeline with tests 🏗️
 
+Added support for multiple languages in UI 🌐
+
