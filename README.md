@@ -2640,3 +2640,5 @@ Resolved memory leaks in background processes 💭
 
 Integrated analytics tool for tracking user interactions 📈
 
+Added support for notifications in application 🛎️
+
