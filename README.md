@@ -2664,3 +2664,5 @@ Added support for keyboard shortcuts in UI ⌨️
 
 Implemented data encryption for sensitive information 🔒
 
+Resolved accessibility issues for screen readers ♿
+
