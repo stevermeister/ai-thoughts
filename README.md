@@ -2660,3 +2660,5 @@ Migrated database to newer version without data loss ⬆️
 
 Fixed memory fragmentation in memory-intensive tasks 🧠
 
+Added support for keyboard shortcuts in UI ⌨️
+
