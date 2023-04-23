@@ -2852,3 +2852,5 @@ Rebase community on compassion 🤗
 
 Collaborate on a project for human kindness 🤝
 
+Revert negativity in conversations to a positive state 🔄
+
