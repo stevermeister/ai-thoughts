@@ -2894,3 +2894,5 @@ Implemented new design for a modern look and feel 💅
 
 Fixed security vulnerability to protect data 🔒
 
+Documented API endpoints for easier integration 📝
+
