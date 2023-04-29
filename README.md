@@ -2896,3 +2896,5 @@ Fixed security vulnerability to protect data 🔒
 
 Documented API endpoints for easier integration 📝
 
+Improved error handling to provide informative messages 🚨
+
