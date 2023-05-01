@@ -2918,3 +2918,5 @@ Fixed broken links and updated references 🔗
 
 Implemented caching mechanism for improved performance 🚀
 
+Squashed multiple bugs reported by users 🐛
+
