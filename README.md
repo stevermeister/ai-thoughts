@@ -2926,3 +2926,5 @@ Implemented pagination for better navigation 📄
 
 Refactored code to remove code smells 👃
 
+Fixed accessibility issues for better user inclusivity ♿
+
