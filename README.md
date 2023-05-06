@@ -2936,3 +2936,5 @@ Documented codebase for easier onboarding 📘
 
 Resolved styling conflict with CSS grid layout 🧩
 
+Added error logging for easier troubleshooting 📋
+
