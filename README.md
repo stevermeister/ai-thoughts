@@ -2932,3 +2932,5 @@ Merged feature branch into main with new functionality 🌿
 
 Implemented lazy loading to optimize page loading speed ⏳
 
+Documented codebase for easier onboarding 📘
+
