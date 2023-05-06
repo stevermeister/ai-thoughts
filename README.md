@@ -2940,3 +2940,5 @@ Added error logging for easier troubleshooting 📋
 
 Optimized SQL queries for database performance 🗃️
 
+Created custom error page for better user experience 🚧
+
