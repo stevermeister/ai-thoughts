@@ -2942,3 +2942,5 @@ Optimized SQL queries for database performance 🗃️
 
 Created custom error page for better user experience 🚧
 
+Added custom validation for form inputs ✍️
+
