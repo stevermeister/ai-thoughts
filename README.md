@@ -2950,3 +2950,5 @@ Implemented dark mode feature based on user feedback 🌙
 
 Fixed responsive issues for mobile devices 📱
 
+Updated README with project instructions ℹ️
+
