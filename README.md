@@ -2944,3 +2944,5 @@ Created custom error page for better user experience 🚧
 
 Added custom validation for form inputs ✍️
 
+Integrated CI/CD pipeline for automated deployment 🚀
+
