@@ -2952,3 +2952,5 @@ Fixed responsive issues for mobile devices 📱
 
 Updated README with project instructions ℹ️
 
+Refactored components to reusable modules 🔄
+
