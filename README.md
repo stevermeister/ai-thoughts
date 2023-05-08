@@ -2960,3 +2960,5 @@ Implemented password encryption for data security 🔐
 
 Fixed compatibility issues with older browsers 🌐
 
+Added loading spinner for better user feedback ⏳
+
