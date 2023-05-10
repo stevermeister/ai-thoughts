@@ -2978,3 +2978,5 @@ Optimized web fonts for faster loading times 🖌️
 
 Added custom 404 page for better error handling 🚫
 
+Updated error messages for clearer user guidance ❗
+
