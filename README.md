@@ -2976,3 +2976,5 @@ Fixed broken image links for seamless content display 🖼️
 
 Optimized web fonts for faster loading times 🖌️
 
+Added custom 404 page for better error handling 🚫
+
