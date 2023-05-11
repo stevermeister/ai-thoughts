@@ -2988,3 +2988,5 @@ Implemented lazy loading images to reduce initial load time ⏳
 
 Fixed CORS issue to allow cross-origin resource sharing 🌐
 
+Added keyboard shortcuts for improved accessibility ⌨️
+
