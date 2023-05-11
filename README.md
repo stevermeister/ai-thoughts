@@ -2994,3 +2994,5 @@ Optimized CPU usage for efficient resource allocation 💻
 
 Resolved memory allocation issue for smoother performance 🧠
 
+Added support for multiple languages to cater to global users 🌍
+
