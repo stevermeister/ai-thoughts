@@ -2998,3 +2998,5 @@ Added support for multiple languages to cater to global users 🌍
 
 Implemented search functionality for easier data retrieval 🔍
 
+Refactored CSS classes for consistent styling 🎨
+
