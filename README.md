@@ -2992,3 +2992,5 @@ Added keyboard shortcuts for improved accessibility ⌨️
 
 Optimized CPU usage for efficient resource allocation 💻
 
+Resolved memory allocation issue for smoother performance 🧠
+
