@@ -3004,3 +3004,5 @@ Fixed broken links in navigation menu for seamless browsing 🔗
 
 Optimized image size for faster page loading 🚀
 
+Implemented user authentication and authorization logic 🔐
+
