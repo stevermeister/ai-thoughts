@@ -3002,3 +3002,5 @@ Refactored CSS classes for consistent styling 🎨
 
 Fixed broken links in navigation menu for seamless browsing 🔗
 
+Optimized image size for faster page loading 🚀
+
