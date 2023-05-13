@@ -3012,3 +3012,5 @@ Merged feature branch into main with new functionality 🌱
 
 Implemented form validation for data integrity ✅
 
+Fixed responsiveness issues on different screen sizes 📏
+
