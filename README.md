@@ -3034,3 +3034,5 @@ Optimized frontend assets for faster loading times 🚀
 
 📦 Adding new dependencies to enhance functionality
 
+📝 Updating documentation for better clarity
+
