@@ -3048,3 +3048,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🌀 Implementing design changes for improved aesthetic appeal
 
+💬 Updating comments for better code understanding
+
