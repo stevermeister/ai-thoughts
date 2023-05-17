@@ -3052,3 +3052,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🔄 Reverting back to previous version to resolve issue
 
+🔨 Fixing broken links in application
+
