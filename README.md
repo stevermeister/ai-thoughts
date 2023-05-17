@@ -3056,3 +3056,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🔖 Version bump for latest release
 
+🚦 Implementing CI/CD pipeline for automated deployment
+
