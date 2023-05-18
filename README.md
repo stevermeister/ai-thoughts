@@ -3074,3 +3074,5 @@ Optimized frontend assets for faster loading times 🚀
 
 📌 Pinning dependency versions for consistent builds
 
+⚙️ Configuring settings for optimal performance
+
