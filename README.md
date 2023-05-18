@@ -3060,3 +3060,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🔀 Resolving merge conflicts in codebase
 
+🧭 Adding new navigation feature for easier user navigation
+
