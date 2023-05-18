@@ -3062,3 +3062,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🧭 Adding new navigation feature for easier user navigation
 
+🔄 Rolling back changes to address performance issues
+
