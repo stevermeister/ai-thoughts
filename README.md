@@ -3058,3 +3058,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🚦 Implementing CI/CD pipeline for automated deployment
 
+🔀 Resolving merge conflicts in codebase
+
