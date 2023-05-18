@@ -3064,3 +3064,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🔄 Rolling back changes to address performance issues
 
+🔗 Fixing broken links in documentation
+
