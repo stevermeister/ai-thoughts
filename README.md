@@ -3088,3 +3088,5 @@ Optimized frontend assets for faster loading times 🚀
 
 💻 Refactoring codebase for cleaner architecture
 
+📝 Writing unit tests for robust code coverage
+
