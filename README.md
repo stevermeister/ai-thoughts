@@ -3086,3 +3086,5 @@ Optimized frontend assets for faster loading times 🚀
 
 💫 Adding magic to the codebase with new feature
 
+💻 Refactoring codebase for cleaner architecture
+
