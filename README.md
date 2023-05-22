@@ -3106,3 +3106,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🌈 Bringing color to the UI with design update
 
+📃 Updating project README with detailed information
+
