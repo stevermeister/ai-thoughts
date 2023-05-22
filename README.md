@@ -3112,3 +3112,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🛠️ Fixing broken build caused by recent changes
 
+📬 Sending notification emails upon successful deployment
+
