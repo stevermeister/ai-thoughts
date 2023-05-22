@@ -3110,3 +3110,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🚚 Moving files to organized directory structure
 
+🛠️ Fixing broken build caused by recent changes
+
