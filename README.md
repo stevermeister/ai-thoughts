@@ -3108,3 +3108,5 @@ Optimized frontend assets for faster loading times 🚀
 
 📃 Updating project README with detailed information
 
+🚚 Moving files to organized directory structure
+
