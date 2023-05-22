@@ -3104,3 +3104,5 @@ Optimized frontend assets for faster loading times 🚀
 
 📊 Adding new metrics for better data analysis
 
+🌈 Bringing color to the UI with design update
+
