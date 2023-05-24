@@ -3132,3 +3132,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🔄 Reverting changes to previous stable state
 
+📖 Adding new documentation for feature description
+
