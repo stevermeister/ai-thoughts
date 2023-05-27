@@ -3174,3 +3174,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🛠 Fixing bugs identified in latest testing phase
 
+🔄 Reverting changes to address regression issues
+
