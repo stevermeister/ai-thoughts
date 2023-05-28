@@ -3186,3 +3186,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🧙‍♂️ Casting spells to banish gremlins from code
 
+🌐 Making codebase more globally accessible
+
