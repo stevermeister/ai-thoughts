@@ -3196,3 +3196,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🪚 Hammering out code inefficiencies for better performance
 
+🔎 Investigating issue reported by users for resolution
+
