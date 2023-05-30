@@ -3208,3 +3208,5 @@ Optimized frontend assets for faster loading times 🚀
 
 🪧 Weaving together different components for seamless integration
 
+📝 Adding more comments for code clarity
+
