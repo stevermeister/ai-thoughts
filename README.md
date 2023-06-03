@@ -3224,3 +3224,5 @@ Refactored code for improved readability 📚
 
 Fixed bug causing unexpected behavior 🐞
 
+Added support for new data input formats 📊
+
