@@ -3234,3 +3234,5 @@ Updated documentation with latest changes 📝
 
 Implemented feature requested by users 🚀
 
+Resolved conflicts in merge with feature branch ⚔️
+
