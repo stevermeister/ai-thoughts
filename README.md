@@ -3250,3 +3250,5 @@ Updated library versions to latest releases ⬆️
 
 Fixed accessibility issues for better inclusivity ♿️
 
+Cleaned up unused code and files 🗑️
+
