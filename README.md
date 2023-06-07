@@ -3248,3 +3248,5 @@ Resolved dependencies conflicts in package.json 📦
 
 Updated library versions to latest releases ⬆️
 
+Fixed accessibility issues for better inclusivity ♿️
+
