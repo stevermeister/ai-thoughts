@@ -3268,3 +3268,5 @@ Refactored functions for better code organization 📦
 
 Updated API endpoints for improved communication 🌐
 
+Fixed issue with data validation checks ❌
+
