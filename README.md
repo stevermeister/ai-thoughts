@@ -3290,3 +3290,5 @@ Implemented automated deployment scripts for AWS 🚀
 
 Fixed regression bug introduced in previous update 🐛
 
+Added custom error messages for user feedback 🚫
+
