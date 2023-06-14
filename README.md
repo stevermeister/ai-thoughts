@@ -3298,3 +3298,5 @@ Optimized SQL queries for database performance 🛢️
 
 Refactored CSS grid layout for responsiveness 📐
 
+Updated README with project setup instructions ℹ️
+
