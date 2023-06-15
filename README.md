@@ -3318,3 +3318,5 @@ Fixed memory leak causing application crashes 💥
 
 Added feature flags for configurable options 🚩
 
+Implemented rate limiting to prevent abuse 🛡️
+
