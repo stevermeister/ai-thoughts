@@ -3324,3 +3324,5 @@ Refactored API endpoints for consistency 🔄
 
 Updated external API integrations for new features 🌐
 
+Fixed broken links in documentation 🔗
+
