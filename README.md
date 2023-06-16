@@ -3338,3 +3338,5 @@ Implemented custom form validation for data integrity 🛠️
 
 Updated configuration files for scalability 📈
 
+Fixed deployment script permissions issue 🔑
+
