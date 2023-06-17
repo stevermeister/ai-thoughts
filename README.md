@@ -3350,3 +3350,5 @@ Updated test coverage for comprehensive testing 🧪
 
 Fixed broken build pipeline for successful deployment 🏗️
 
+Added support for WebSockets for real-time updates ⏱️
+
