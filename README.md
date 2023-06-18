@@ -3362,3 +3362,5 @@ Updated component library for latest features 🔄
 
 Fixed broken image links on website 🖼️
 
+Implemented lazy loading for improved performance 🚀
+
