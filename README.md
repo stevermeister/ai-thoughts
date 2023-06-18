@@ -3360,3 +3360,5 @@ Refactored router configuration for cleaner routing 🛣️
 
 Updated component library for latest features 🔄
 
+Fixed broken image links on website 🖼️
+
