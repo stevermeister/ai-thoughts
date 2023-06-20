@@ -3372,3 +3372,5 @@ Refactored Redux store for better state management 🗄️
 
 Updated deployment scripts for automated releases 🚀
 
+Fixed CORS issue preventing API access 🌐
+
