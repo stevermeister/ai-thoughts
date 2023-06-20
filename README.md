@@ -3368,3 +3368,5 @@ Added custom fonts for unique design elements 🅰️
 
 Optimized CSS animations for smoother transitions 🎨
 
+Refactored Redux store for better state management 🗄️
+
