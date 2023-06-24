@@ -3400,3 +3400,5 @@ Trained model on new dataset 📚
 
 Deployed AI for image recognition 🖼️
 
+Fine-tuned natural language processing model 📝
+
