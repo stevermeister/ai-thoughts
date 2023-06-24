@@ -3402,3 +3402,5 @@ Deployed AI for image recognition 🖼️
 
 Fine-tuned natural language processing model 📝
 
+Integrated AI with IoT devices 📱
+
