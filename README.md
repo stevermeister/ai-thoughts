@@ -3404,3 +3404,5 @@ Fine-tuned natural language processing model 📝
 
 Integrated AI with IoT devices 📱
 
+Developed AI chatbot for customer support 💬
+
