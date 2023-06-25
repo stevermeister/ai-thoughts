@@ -3406,3 +3406,5 @@ Integrated AI with IoT devices 📱
 
 Developed AI chatbot for customer support 💬
 
+Simplified data preprocessing with AI 🔄
+
