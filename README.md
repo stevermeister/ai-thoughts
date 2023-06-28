@@ -3424,3 +3424,5 @@ Used AI to analyze sentiment in social media posts 📲
 
 Developed AI for personalized recommendations 🎁
 
+Integrated AI with voice recognition technology 🗣️
+
