@@ -3434,3 +3434,5 @@ Deployed AI for medical image analysis 🩺
 
 Fine-tuned AI to understand human emotions 😊
 
+Trained model to detect fraudulent activities 🕵️
+
