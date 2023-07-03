@@ -3460,3 +3460,5 @@ Enhanced AI for document classification 📄
 
 Optimized AI for recommendation systems 📦
 
+Deployed AI for autonomous drones 🛸
+
