@@ -3450,3 +3450,5 @@ Used AI to optimize supply chain operations 🚚
 
 Developed AI for weather prediction 🌦️
 
+Integrated AI into energy management systems ⚡️
+
