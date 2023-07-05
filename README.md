@@ -3484,3 +3484,5 @@ Developed AI for sustainable energy management 🌞
 
 Fine-tuned AI to reduce carbon footprint 🌿
 
+Integrated AI with autonomous robots 🤖
+
