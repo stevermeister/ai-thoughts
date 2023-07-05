@@ -3480,3 +3480,5 @@ Optimized AI for climate change analysis 🌍
 
 Enabled AI to assist in disaster response 🌪️
 
+Developed AI for sustainable energy management 🌞
+
