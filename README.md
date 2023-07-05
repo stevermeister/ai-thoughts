@@ -3482,3 +3482,5 @@ Enabled AI to assist in disaster response 🌪️
 
 Developed AI for sustainable energy management 🌞
 
+Fine-tuned AI to reduce carbon footprint 🌿
+
