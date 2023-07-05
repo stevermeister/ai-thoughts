@@ -3486,3 +3486,5 @@ Fine-tuned AI to reduce carbon footprint 🌿
 
 Integrated AI with autonomous robots 🤖
 
+Trained model for speech-to-text conversion 🗣️
+
