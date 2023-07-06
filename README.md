@@ -3500,3 +3500,5 @@ Used AI to enhance virtual reality experiences 🕶️
 
 Enabled AI to improve urban planning 🏙️
 
+Developed AI for smart home automation 🏠
+
