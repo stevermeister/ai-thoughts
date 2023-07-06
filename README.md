@@ -3502,3 +3502,5 @@ Enabled AI to improve urban planning 🏙️
 
 Developed AI for smart home automation 🏠
 
+Fine-tuned AI for autonomous flying vehicles 🚁
+
