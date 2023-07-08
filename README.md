@@ -3518,3 +3518,5 @@ Used AI to improve recycling processes ♻️
 
 Enabled AI to assist in space exploration 🚀
 
+Developed AI for sustainable fashion design 👗
+
