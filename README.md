@@ -3524,3 +3524,5 @@ Fine-tuned AI for marine conservation 🐟
 
 Integrated AI with sustainable architecture 🏗️
 
+Trained model to identify invasive species 🌿
+
