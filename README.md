@@ -3542,3 +3542,5 @@ Developed AI for plastic waste reduction 🚯
 
 Fine-tuned AI for sustainable urban development 🏙️
 
+Trained model for precision agriculture 🌾
+
