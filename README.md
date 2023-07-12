@@ -3546,3 +3546,5 @@ Trained model for precision agriculture 🌾
 
 Enhanced AI for climate change mitigation 🌍
 
+Implemented AI for disaster risk reduction 🚨
+
