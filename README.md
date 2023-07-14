@@ -3560,3 +3560,5 @@ Developed AI for eco-friendly packaging 📦
 
 Fine-tuned AI for circular economy initiatives ♻️
 
+Integrated AI with green building design 🌿
+
