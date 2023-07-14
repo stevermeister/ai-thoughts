@@ -3558,3 +3558,5 @@ Enabled AI to improve industrial sustainability 🏭
 
 Developed AI for eco-friendly packaging 📦
 
+Fine-tuned AI for circular economy initiatives ♻️
+
