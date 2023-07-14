@@ -3556,3 +3556,5 @@ Used AI to optimize renewable energy production 🌞
 
 Enabled AI to improve industrial sustainability 🏭
 
+Developed AI for eco-friendly packaging 📦
+
