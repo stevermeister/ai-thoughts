@@ -3562,3 +3562,5 @@ Fine-tuned AI for circular economy initiatives ♻️
 
 Integrated AI with green building design 🌿
 
+Trained model for sustainable tourism development 🌴
+
