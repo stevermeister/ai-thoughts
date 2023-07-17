@@ -3582,3 +3582,5 @@ Fine-tuned AI for green infrastructure planning 🌳
 
 Integrated AI with biodiversity conservation efforts 🌿
 
+Trained model for smart grid energy management ⚡️
+
