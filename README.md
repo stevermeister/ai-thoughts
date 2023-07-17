@@ -3580,3 +3580,5 @@ Developed AI for sustainable water resource management 💧
 
 Fine-tuned AI for green infrastructure planning 🌳
 
+Integrated AI with biodiversity conservation efforts 🌿
+
