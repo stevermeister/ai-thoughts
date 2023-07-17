@@ -3576,3 +3576,5 @@ Used AI to monitor endangered species habitats 🦏
 
 Enabled AI to reduce agricultural emissions 🚜
 
+Developed AI for sustainable water resource management 💧
+
