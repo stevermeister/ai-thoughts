@@ -3578,3 +3578,5 @@ Enabled AI to reduce agricultural emissions 🚜
 
 Developed AI for sustainable water resource management 💧
 
+Fine-tuned AI for green infrastructure planning 🌳
+
