@@ -3574,3 +3574,5 @@ Deployed AI for electronic waste recycling 📱
 
 Used AI to monitor endangered species habitats 🦏
 
+Enabled AI to reduce agricultural emissions 🚜
+
