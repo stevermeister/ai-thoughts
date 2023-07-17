@@ -3572,3 +3572,5 @@ Optimized AI for carbon capture technologies 🌱
 
 Deployed AI for electronic waste recycling 📱
 
+Used AI to monitor endangered species habitats 🦏
+
