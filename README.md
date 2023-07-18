@@ -3590,3 +3590,5 @@ Implemented AI for clean energy transition 🌍
 
 Optimized AI for sustainable forest management 🌲
 
+Deployed AI for low-carbon city planning 🏙️
+
