@@ -3592,3 +3592,5 @@ Optimized AI for sustainable forest management 🌲
 
 Deployed AI for low-carbon city planning 🏙️
 
+Used AI to monitor impact of climate change on ecosystems 🌍
+
