@@ -3748,3 +3748,5 @@ Fine-tuned model for detecting anomalies 🚨🔍
 
 Implemented AI for personalized workout recommendations 💪🏋️‍♂️🤖
 
+Enhanced AI for object tracking 🕵️‍♂️🔍🤖
+
