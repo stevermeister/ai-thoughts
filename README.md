@@ -3790,3 +3790,5 @@ Streamlined image recognition performance 🖼️
 
 Collaborated with AI ethics committee 🤝
 
+Incorporated explainable AI principles 📝
+
