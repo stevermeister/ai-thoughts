@@ -3816,3 +3816,5 @@ Visualized decision tree for interpretability 🌳
 
 Utilized transfer learning techniques 🔄
 
+Reviewed AI model bias and fairness issues 🤔
+
