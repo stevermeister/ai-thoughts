@@ -3854,3 +3854,5 @@ Streamlined data labeling process for efficiency 🏷️
 
 Developed AI for medical image analysis 🩺
 
+Analyzed social media sentiment with AI 📱
+
