@@ -3852,3 +3852,5 @@ Secured AI training data with privacy measures 🔐
 
 Streamlined data labeling process for efficiency 🏷️
 
+Developed AI for medical image analysis 🩺
+
