@@ -3886,3 +3886,5 @@ Optimized AI speech recognition performance 🎙️
 
 Deployed AI facial recognition system for security 🔒👤
 
+Investigated AI bias mitigation strategies 🧐
+
