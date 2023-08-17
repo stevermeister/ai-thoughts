@@ -3888,3 +3888,5 @@ Deployed AI facial recognition system for security 🔒👤
 
 Investigated AI bias mitigation strategies 🧐
 
+Enabled AI anomaly detection in IoT devices 🌐🚨
+
