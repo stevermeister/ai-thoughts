@@ -3922,3 +3922,5 @@ Collaborated with interdisciplinary team on AI-driven research projects 🤝🔬
 
 Trained AI chatbot on conversational data for engaging interactions 💬🤖
 
+Developed AI model for personalized healthcare recommendations 🏥💊
+
