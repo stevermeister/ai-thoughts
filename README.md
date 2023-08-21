@@ -3912,3 +3912,5 @@ Evaluated AI model fairness across demographic segments 👩👨📊
 
 Fine-tuned AI knowledge graph for semantic search 🗂️🔍
 
+Deployed AI-powered fraud detection system for financial transactions 💳🚫
+
