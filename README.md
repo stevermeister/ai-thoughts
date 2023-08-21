@@ -3920,3 +3920,5 @@ Explored AI generative adversarial networks for creative design 🎨🤖
 
 Collaborated with interdisciplinary team on AI-driven research projects 🤝🔬
 
+Trained AI chatbot on conversational data for engaging interactions 💬🤖
+
