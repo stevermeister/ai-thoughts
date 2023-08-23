@@ -3940,3 +3940,5 @@ Deployed AI chatbot with sentiment analysis for customer support 💬🤖😊
 
 Investigated AI explainability techniques for interpretability 🤔📊🔎
 
+Utilized AI-driven predictive analytics for market trend forecasting 📈🔮
+
