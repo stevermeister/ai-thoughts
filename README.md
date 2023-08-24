@@ -3962,3 +3962,5 @@ Enabled AI facial recognition system for biometric authentication 🔒👤
 
 Evaluated AI model interpretability for transparent decision-making 📊🔍💡
 
+Implemented AI-powered chatbot for personalized shopping assistance 🤖🛒🎁
+
