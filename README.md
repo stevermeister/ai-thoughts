@@ -4022,3 +4022,5 @@ Fixed broken links in documentation 🔗
 
 Implemented responsive design for mobile devices 📱
 
+Refactored code to remove code smells 👃
+
