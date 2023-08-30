@@ -4024,3 +4024,5 @@ Implemented responsive design for mobile devices 📱
 
 Refactored code to remove code smells 👃
 
+Added functionality for automated testing 🧪
+
