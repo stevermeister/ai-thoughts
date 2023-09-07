@@ -4106,3 +4106,5 @@ Fixed issue with session management 🔑🔗
 
 Refactored code to improve modularity 🧩
 
+Added support for WebP image format 🖼️🔄
+
