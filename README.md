@@ -4138,3 +4138,5 @@ Fixed validation bug in form fields 🐛📝
 
 Optimized API response time for faster interaction 🕒⚡️
 
+Added support for biometric authentication 🔐👆
+
