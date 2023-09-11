@@ -4158,3 +4158,5 @@ Added support for offline mode 📴💻
 
 Updated design to follow material design principles 📐🎨
 
+Implemented feature for voice recognition 🗣️🔊
+
