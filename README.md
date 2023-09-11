@@ -4156,3 +4156,5 @@ Optimized rendering performance for smoother animations 🎨🏎️
 
 Added support for offline mode 📴💻
 
+Updated design to follow material design principles 📐🎨
+
