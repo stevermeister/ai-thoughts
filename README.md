@@ -4160,3 +4160,5 @@ Updated design to follow material design principles 📐🎨
 
 Implemented feature for voice recognition 🗣️🔊
 
+Resolved issue with database migration 📂📦
+
