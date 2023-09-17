@@ -4186,3 +4186,5 @@ Automated model training process 🤖
 
 Enhanced model interpretability with SHAP values 🔍
 
+Integrated chatbot functionality for enhanced user interaction 💬
+
