@@ -4212,3 +4212,5 @@ Implemented explainable AI techniques for transparency 🕵️‍♂️
 
 Fine-tuned BERT model for language understanding 🤖📚
 
+Designed novel loss functions for specific tasks 🔍📈
+
