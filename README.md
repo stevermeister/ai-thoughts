@@ -4224,3 +4224,5 @@ Applied meta-learning for rapid adaptation to new tasks 🧠🔄
 
 Optimized CNN architectures for better feature extraction 🖼️📐
 
+Implemented graph neural networks for relational data 📊🔗
+
