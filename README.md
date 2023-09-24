@@ -4240,3 +4240,5 @@ Enhanced model interpretability through attention visualization 🧠👀
 
 Improved model efficiency with quantization techniques 📉
 
+Integrated federated learning for privacy-preserving training 🛡️🔐
+
