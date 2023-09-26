@@ -4266,3 +4266,5 @@ Optimized model inference speed with quantization techniques 🚀⚙️
 
 Enhanced model fairness through bias-aware training strategies 🚫⚖️
 
+Applied transfer learning for domain adaptation 🔄🌐
+
