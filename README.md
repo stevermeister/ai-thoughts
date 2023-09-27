@@ -4272,3 +4272,5 @@ Improved model robustness using adversarial training techniques 🛡️
 
 Utilized multi-task learning for learning shared representations 🧠🤝
 
+Optimized model performance with architecture search algorithms 🚀🔍
+
