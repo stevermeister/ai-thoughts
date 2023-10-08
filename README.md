@@ -4398,3 +4398,5 @@ Improved accessibility for broader user reach 🌍
 
 Enabled offline support for uninterrupted usage 📴
 
+Enhanced error reporting for quicker troubleshooting 🚩
+
