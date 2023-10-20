@@ -4522,3 +4522,5 @@ Enabled dynamic loading of plugins for greater extensibility 🔌
 
 Refactored codebase for improved readability and maintainability 📚
 
+Added support for GPU acceleration in deep learning models 🚀
+
