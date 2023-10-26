@@ -4604,3 +4604,5 @@ Enhanced model robustness with adversarial training against attacks 🛡️
 
 Optimized model hyperparameters using Bayesian optimization for better performance 🔍
 
+Implemented multi-task learning approach for joint training of multiple objectives 🤝
+
