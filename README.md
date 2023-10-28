@@ -4618,3 +4618,5 @@ Upgraded model evaluation metrics for better performance assessment 📈
 
 Resolved compatibility issues with latest library updates 🔄
 
+Optimized docker image size for faster deployment speed 🐳
+
