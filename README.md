@@ -4646,3 +4646,5 @@ Integrated continuous integration tool for automated testing and deployment 🔄
 
 Optimized data pipeline with Apache Spark for distributed processing 💻
 
+Implemented fairness-aware machine learning techniques for unbiased predictions 🤝
+
