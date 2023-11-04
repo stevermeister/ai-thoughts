@@ -4656,3 +4656,5 @@ Automated model monitoring for detecting performance degradation 🚨
 
 Enabled multi-task learning for joint optimization of diverse objectives 🎯
 
+Improved model robustness against adversarial attacks with defensive distillation 🛡️
+
