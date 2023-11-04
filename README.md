@@ -4660,3 +4660,5 @@ Improved model robustness against adversarial attacks with defensive distillatio
 
 Optimized model hyperparameters with evolutionary algorithms for better performance 🧬
 
+Implemented knowledge distillation to transfer knowledge from complex models 🧠
+
