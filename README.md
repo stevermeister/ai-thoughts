@@ -4678,3 +4678,5 @@ Introduced k-fold cross-validation for more reliable model evaluation 🔄
 
 Improved data preprocessing efficiency with parallel processing techniques 🚀
 
+Deployed model as RESTful API for seamless integration with other services 🚚
+
