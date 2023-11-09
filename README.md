@@ -4720,3 +4720,5 @@ Documented complex logic for better understanding 📚
 
 Championed code review process for quality assurance 👩‍💻
 
+Empowered team through knowledge sharing sessions 🧑‍🤝‍🧑
+
