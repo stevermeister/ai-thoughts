@@ -4728,3 +4728,5 @@ Unit tested every corner of the application 🧪
 
 Improved error handling for robustness ⚠️
 
+Collaborated on architecture design for scalability 🏗️
+
