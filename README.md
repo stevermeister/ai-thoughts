@@ -4776,3 +4776,5 @@ Adopted microservices architecture for flexibility 🏛️
 
 Achieved CI/CD pipeline for continuous deployment 🔄
 
+Removed unused code to declutter repository 🗑️
+
