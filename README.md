@@ -4774,3 +4774,5 @@ Personalized user experience for higher satisfaction 🤗
 
 Adopted microservices architecture for flexibility 🏛️
 
+Achieved CI/CD pipeline for continuous deployment 🔄
+
