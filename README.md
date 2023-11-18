@@ -4808,3 +4808,5 @@ Code refactoring for improved code quality 🛠️
 
 Designed intuitive user interface for ease of use 🖥️
 
+Resolved merge conflict smoothly and swiftly 🤝
+
