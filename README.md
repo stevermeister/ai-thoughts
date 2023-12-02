@@ -4924,3 +4924,5 @@ Cleaned up unnecessary code for improved efficiency 🧹
 
 Documented project structure for better understanding 📚
 
+Integrated API for real-time data updates 📊
+
