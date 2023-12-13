@@ -4992,3 +4992,5 @@ Configured continuous deployment pipeline for automatic updates 🔄
 
 Optimized rendering performance for smoother user experience 🚀
 
+Used design patterns to simplify code structure 🏗️
+
