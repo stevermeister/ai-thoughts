@@ -4998,3 +4998,5 @@ Deployed application to production server successfully 🚢
 
 Merged feature branch into main with git rebase 🌿
 
+Resized images for faster loading times 🖼️
+
