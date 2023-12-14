@@ -5002,3 +5002,5 @@ Resized images for faster loading times 🖼️
 
 Refactored monolithic architecture into microservices 🏢 ➡️ 🏠
 
+Implemented lazy loading for better resource utilization 🛌
+
