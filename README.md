@@ -5046,3 +5046,5 @@ Performed stress testing to ensure system reliability 👷
 
 Updated the README file with project instructions 📇
 
+Resolved CORS policy issue for cross-origin resource sharing 🤝
+
