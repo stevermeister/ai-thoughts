@@ -5048,3 +5048,5 @@ Updated the README file with project instructions 📇
 
 Resolved CORS policy issue for cross-origin resource sharing 🤝
 
+Implemented data encryption for secure storage 🔐
+
