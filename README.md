@@ -5044,3 +5044,5 @@ Optimized rendering performance with lazy loading 🚀
 
 Performed stress testing to ensure system reliability 👷
 
+Updated the README file with project instructions 📇
+
