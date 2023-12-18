@@ -5068,3 +5068,5 @@ Optimized image loading with lazy loading technique 📸
 
 Added geolocation feature for location-based services 📍
 
+Converted data storage to NoSQL for flexibility 🗄️ ➡️ 📦
+
