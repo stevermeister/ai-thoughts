@@ -5072,3 +5072,5 @@ Converted data storage to NoSQL for flexibility 🗄️ ➡️ 📦
 
 Implemented keyboard shortcuts for power users ⌨️
 
+Fixed accessibility issues for WCAG compliance ♿
+
