@@ -5086,3 +5086,5 @@ Configured continuous integration workflow for automated testing 🔄
 
 Optimized page load speed with code minification 🚀
 
+Enabled dark mode option for reduced eye strain 🌚
+
