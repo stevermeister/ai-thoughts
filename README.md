@@ -5088,3 +5088,5 @@ Optimized page load speed with code minification 🚀
 
 Enabled dark mode option for reduced eye strain 🌚
 
+Fixed broken links in documentation for better user experience 📖
+
