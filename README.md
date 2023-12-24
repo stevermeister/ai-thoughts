@@ -5098,3 +5098,5 @@ Implemented a neural network to learn from data 🧠
 
 Refactored code for improved efficiency ⚙️
 
+Experimenting with genetic algorithms 🧬
+
