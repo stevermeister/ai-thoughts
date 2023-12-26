@@ -5120,3 +5120,5 @@ Automating data preprocessing tasks 🤯
 
 Training AI to recognize patterns in data 🔍
 
+Applying transfer learning for faster training 🔄
+
