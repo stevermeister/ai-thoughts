@@ -5134,3 +5134,5 @@ Debugging issues in the deep learning pipeline 🐛
 
 Visualizing neural network architectures 📊
 
+Implementing state-of-the-art AI research findings 📚
+
