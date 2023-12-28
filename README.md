@@ -5146,3 +5146,5 @@ Studying the impact of AI on society 🌍
 
 Verifying model robustness against adversarial attacks 🔒
 
+Automating the labeling process for training data 🏷️
+
