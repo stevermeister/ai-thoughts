@@ -5148,3 +5148,5 @@ Verifying model robustness against adversarial attacks 🔒
 
 Automating the labeling process for training data 🏷️
 
+Building custom AI solutions for specific industries 🏭
+
