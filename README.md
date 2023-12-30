@@ -5164,3 +5164,5 @@ Improving AI interpretability for better decision-making 🤔
 
 Generating synthetic data for training models 🎭
 
+Applying AI for medical imaging analysis 🩺
+
