@@ -5172,3 +5172,5 @@ Mitigating bias in AI algorithms through fairness-aware training ⚖️
 
 Building AI-powered fraud detection systems 🔍
 
+Scanning for anomalies with unsupervised learning techniques 🕵️
+
