@@ -5176,3 +5176,5 @@ Scanning for anomalies with unsupervised learning techniques 🕵️
 
 Fine-tuning language models for improved fluency 🗣️
 
+Creating AI solutions for climate monitoring 🌍
+
