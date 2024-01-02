@@ -5186,3 +5186,5 @@ Developing AI models for personalized healthcare 🏥
 
 Enhancing natural language understanding with attention mechanisms 🧠
 
+Building AI applications for smart cities 🌆
+
