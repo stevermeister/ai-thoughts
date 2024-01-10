@@ -5268,3 +5268,5 @@ Investigating the role of AI in climate change mitigation 🌿
 
 Facilitating AI-driven decision-making in financial services 🏦
 
+Developing AI models for predictive maintenance in manufacturing 🏭
+
