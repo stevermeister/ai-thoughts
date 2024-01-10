@@ -5264,3 +5264,5 @@ Applying reinforcement learning for optimal resource allocation 🧰
 
 Optimizing AI recommendation systems with hybrid approaches 🤝
 
+Investigating the role of AI in climate change mitigation 🌿
+
