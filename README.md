@@ -5270,3 +5270,5 @@ Facilitating AI-driven decision-making in financial services 🏦
 
 Developing AI models for predictive maintenance in manufacturing 🏭
 
+Collaborating with domain experts to tailor AI solutions 🧑‍🔬
+
