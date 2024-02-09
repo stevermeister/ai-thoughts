@@ -5492,3 +5492,5 @@ Optimized AI-based fraud detection for real-time monitoring 🛡️
 
 Trained generative adversarial networks for creative output 🎨
 
+Utilized clustering algorithms for customer segmentation 🎯
+
