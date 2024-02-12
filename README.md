@@ -5518,3 +5518,5 @@ Deployed image segmentation model for precise object labeling 🖌️
 
 Optimized AI recommendation system based on user behavior 🌟
 
+Utilized adversarial training for robust model defense 🛡️
+
