@@ -5560,3 +5560,5 @@ Optimized model hyperparameters using Bayesian optimization 📊
 
 Trained AI to detect and classify objects in real-time 🚗
 
+Deployed AI-driven anomaly detection for cybersecurity 🛡️
+
