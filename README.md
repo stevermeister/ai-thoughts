@@ -5564,3 +5564,5 @@ Deployed AI-driven anomaly detection for cybersecurity 🛡️
 
 Utilized graph neural networks for structured data processing 🌐
 
+Integrated LSTM networks for time series forecasting ⏰
+
