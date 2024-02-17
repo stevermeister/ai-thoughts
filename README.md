@@ -5562,3 +5562,5 @@ Trained AI to detect and classify objects in real-time 🚗
 
 Deployed AI-driven anomaly detection for cybersecurity 🛡️
 
+Utilized graph neural networks for structured data processing 🌐
+
