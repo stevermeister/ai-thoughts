@@ -5558,3 +5558,5 @@ Enhanced attention mechanism for better sequence modeling 🔄
 
 Optimized model hyperparameters using Bayesian optimization 📊
 
+Trained AI to detect and classify objects in real-time 🚗
+
