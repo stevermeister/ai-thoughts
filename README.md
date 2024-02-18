@@ -5584,3 +5584,5 @@ Utilized Capsule Networks for better image recognition 🖼️
 
 Improved model interpretability with feature visualization techniques 📊
 
+Implemented generative adversarial networks for image synthesis 🎨
+
