@@ -5580,3 +5580,5 @@ Optimized transformer model for efficient natural language processing 🗣️
 
 Enhanced model robustness using adversarial training techniques 🛡️
 
+Utilized Capsule Networks for better image recognition 🖼️
+
