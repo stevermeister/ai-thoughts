@@ -5592,3 +5592,5 @@ Deployed deep learning model for medical image analysis 🩺
 
 Optimized hyperparameters of machine learning model for better performance 🛠️
 
+Utilized Siamese networks for similarity-based tasks 🔍
+
