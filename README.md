@@ -5608,3 +5608,5 @@ Deployed AI-powered chatbot for customer support interactions 💬
 
 Optimized deep reinforcement learning agent for game playing 🎮
 
+Utilized semantic segmentation for pixel-wise image labeling 🎨
+
