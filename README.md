@@ -5620,3 +5620,5 @@ Deployed AI-based recommendation system for personalized product suggestions �
 
 Optimized LSTM network for long-range sequence modeling 🔄
 
+Utilized self-supervised learning for feature representation 🧠
+
