@@ -5612,3 +5612,5 @@ Utilized semantic segmentation for pixel-wise image labeling 🎨
 
 Enhanced model flexibility with modular architecture design 🧩
 
+Implemented knowledge distillation for model compression 📚
+
