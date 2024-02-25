@@ -5644,3 +5644,5 @@ Enhanced model interpretability with SHAP and LIME explanations 🧐
 
 Utilized graph neural networks for social network analysis 🌐
 
+Improved image captioning model with attention-based mechanisms 🖼️
+
