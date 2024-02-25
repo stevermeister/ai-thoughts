@@ -5646,3 +5646,5 @@ Utilized graph neural networks for social network analysis 🌐
 
 Improved image captioning model with attention-based mechanisms 🖼️
 
+Implemented object detection model for real-time video analysis 🎥
+
