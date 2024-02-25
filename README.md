@@ -5642,3 +5642,5 @@ Utilized reinforcement learning for personalized content recommendations 📺
 
 Enhanced model interpretability with SHAP and LIME explanations 🧐
 
+Utilized graph neural networks for social network analysis 🌐
+
