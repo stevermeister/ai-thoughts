@@ -5648,3 +5648,5 @@ Improved image captioning model with attention-based mechanisms 🖼️
 
 Implemented object detection model for real-time video analysis 🎥
 
+Fine-tuned AI speech recognition system for accuracy and speed 🗣️
+
