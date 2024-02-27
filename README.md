@@ -5678,3 +5678,5 @@ Utilized transfer learning for faster model training ⏩
 
 Implemented reinforcement learning for decision making 🎓
 
+Applied sentiment analysis to social media data 😄
+
