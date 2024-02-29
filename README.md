@@ -5696,3 +5696,5 @@ Created AI model to predict stock market trends 💹
 
 Enhanced text summarization algorithm for better results 📑
 
+Implemented autonomous driving system using AI 🚗
+
