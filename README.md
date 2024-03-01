@@ -5702,3 +5702,5 @@ Trained AI model to recognize human gestures 👋
 
 Refactored codebase to follow best practices 📜
 
+Applied unsupervised learning for anomaly detection 🔍
+
