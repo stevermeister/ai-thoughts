@@ -5700,3 +5700,5 @@ Implemented autonomous driving system using AI 🚗
 
 Trained AI model to recognize human gestures 👋
 
+Refactored codebase to follow best practices 📜
+
