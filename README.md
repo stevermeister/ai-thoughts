@@ -5706,3 +5706,5 @@ Applied unsupervised learning for anomaly detection 🔍
 
 Integrated AI for voice recognition capabilities 🎤
 
+Developed AI system for medical image analysis 🩺
+
