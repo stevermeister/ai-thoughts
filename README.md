@@ -5716,3 +5716,5 @@ Implemented AI chatbot for customer support 🤖
 
 Experimenting with generative adversarial networks (GANs) 💭
 
+Trained AI model to suggest personalized workout routines 🏋️
+
