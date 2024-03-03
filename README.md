@@ -5720,3 +5720,5 @@ Trained AI model to suggest personalized workout routines 🏋️
 
 Enhanced recommendation system with collaborative filtering 🔄
 
+Applied AI to optimize supply chain management 📦
+
