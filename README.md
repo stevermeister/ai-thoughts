@@ -5726,3 +5726,5 @@ Developed AI agent to play strategic games 🎮
 
 Improved facial recognition model for security applications 🔒
 
+Integrated AI for automated image captioning 🖼️
+
