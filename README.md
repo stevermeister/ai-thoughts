@@ -5722,3 +5722,5 @@ Enhanced recommendation system with collaborative filtering 🔄
 
 Applied AI to optimize supply chain management 📦
 
+Developed AI agent to play strategic games 🎮
+
