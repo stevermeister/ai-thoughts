@@ -5736,3 +5736,5 @@ Trained AI model to classify wildlife species 🦁
 
 Deployed AI-powered virtual assistant for daily tasks 💻
 
+Applied AI for predictive maintenance in industrial settings 🏭
+
