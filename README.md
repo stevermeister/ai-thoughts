@@ -5742,3 +5742,5 @@ Enhanced sentiment analysis algorithm for social media monitoring 📈
 
 Developed AI model for predicting customer behavior 🛒
 
+Fine-tuned speech recognition model for better accuracy 🗣️
+
