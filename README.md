@@ -5746,3 +5746,5 @@ Fine-tuned speech recognition model for better accuracy 🗣️
 
 Optimized AI model for real-time video processing 🎥
 
+Integrated AI for autonomous drone navigation 🚁
+
