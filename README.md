@@ -5754,3 +5754,5 @@ Trained AI model to recognize human emotions 😄
 
 Enhanced chatbot with natural language understanding capabilities 🧠
 
+Applied AI for climate change prediction 🌍
+
