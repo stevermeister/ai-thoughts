@@ -5766,3 +5766,5 @@ Integrated AI for smart home automation 🏡
 
 Fine-tuned machine learning model for speech recognition 🗣️
 
+Deployed AI system for identifying plant species 🌿
+
