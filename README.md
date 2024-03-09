@@ -5772,3 +5772,5 @@ Applied AI for analyzing customer feedback 📝
 
 Developed AI agent for text generation tasks 📄
 
+Enhanced image segmentation algorithm for object detection 📷
+
