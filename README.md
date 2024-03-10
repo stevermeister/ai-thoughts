@@ -5776,3 +5776,5 @@ Enhanced image segmentation algorithm for object detection 📷
 
 Experimenting with AI explainability techniques 🤔
 
+Trained AI model to generate realistic images 🖼️
+
