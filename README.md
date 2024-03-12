@@ -5796,3 +5796,5 @@ Trained AI model to identify objects in video streams 📹
 
 Applied AI for predictive maintenance in manufacturing 🏭
 
+Deployed AI chatbot for improving customer service 🤖
+
