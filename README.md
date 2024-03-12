@@ -5786,3 +5786,5 @@ Fine-tuned reinforcement learning algorithm for game playing 🎮
 
 Enhanced email classification system using AI ✉️
 
+Integrated AI for personalized news recommendation 📰
+
