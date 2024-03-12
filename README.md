@@ -5794,3 +5794,5 @@ Improved data preprocessing pipeline for text analytics 📊
 
 Trained AI model to identify objects in video streams 📹
 
+Applied AI for predictive maintenance in manufacturing 🏭
+
