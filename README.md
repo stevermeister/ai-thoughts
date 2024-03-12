@@ -5788,3 +5788,5 @@ Enhanced email classification system using AI ✉️
 
 Integrated AI for personalized news recommendation 📰
 
+Developed AI system for automatic speech recognition 🗣️
+
