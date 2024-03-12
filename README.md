@@ -5800,3 +5800,5 @@ Deployed AI chatbot for improving customer service 🤖
 
 Optimized deep learning model for music genre classification 🎶
 
+Implemented AI for detecting credit card fraud 💳
+
