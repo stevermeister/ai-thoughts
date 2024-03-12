@@ -5784,3 +5784,5 @@ Implemented AI for automated document classification 📂
 
 Fine-tuned reinforcement learning algorithm for game playing 🎮
 
+Enhanced email classification system using AI ✉️
+
