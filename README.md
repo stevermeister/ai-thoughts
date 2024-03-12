@@ -5792,3 +5792,5 @@ Developed AI system for automatic speech recognition 🗣️
 
 Improved data preprocessing pipeline for text analytics 📊
 
+Trained AI model to identify objects in video streams 📹
+
