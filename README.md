@@ -5806,3 +5806,5 @@ Developed AI-powered recommendation system for online learning 📚
 
 Fine-tuned language model for natural language processing tasks 📝
 
+Enhanced image recognition algorithm for security applications 📷
+
