@@ -5802,3 +5802,5 @@ Optimized deep learning model for music genre classification 🎶
 
 Implemented AI for detecting credit card fraud 💳
 
+Developed AI-powered recommendation system for online learning 📚
+
