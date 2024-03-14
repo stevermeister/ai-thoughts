@@ -5814,3 +5814,5 @@ Trained AI model for identifying objects in satellite images 🌍
 
 Integrated AI for personalized movie recommendations 🎥
 
+Applied unsupervised learning for customer segmentation 🎯
+
