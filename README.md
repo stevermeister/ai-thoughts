@@ -5856,3 +5856,5 @@ Applied AI in predicting weather patterns 🌤️
 
 Trained AI to recognize voice commands 🗣️
 
+Developed AI for autonomous driving 🚗
+
