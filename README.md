@@ -5858,3 +5858,5 @@ Trained AI to recognize voice commands 🗣️
 
 Developed AI for autonomous driving 🚗
 
+Utilized AI in medical image analysis 🩺
+
