@@ -5878,3 +5878,5 @@ Implemented AI for sentiment analysis 📈😊
 
 Enabled AI to detect anomalies in data 🕵️
 
+Developed AI models for financial forecasting 💰
+
