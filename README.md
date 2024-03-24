@@ -5900,3 +5900,5 @@ Trained AI to transcribe audio to text 🎧➡️📝
 
 Optimized AI for fraud detection 🕵️‍♂️
 
+Integrated AI with IoT devices 🌐🤖
+
