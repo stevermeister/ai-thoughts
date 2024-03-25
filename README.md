@@ -5906,3 +5906,5 @@ Utilized AI for optimizing marketing campaigns 📈📱
 
 Enabled AI to generate creative writing 📝
 
+Developed AI for cybersecurity threat detection 🔒
+
