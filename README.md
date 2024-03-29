@@ -5954,3 +5954,5 @@ Utilized AI in enhancing social media engagement 📱👍
 
 Developed AI for personalized workout routines 🏋️
 
+Implemented AI for automatic image captioning 📸🖊️
+
