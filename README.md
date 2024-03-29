@@ -5952,3 +5952,5 @@ Enhanced AI's decision-making process using reinforcement learning 🤖🧠
 
 Utilized AI in enhancing social media engagement 📱👍
 
+Developed AI for personalized workout routines 🏋️
+
