@@ -5956,3 +5956,5 @@ Developed AI for personalized workout routines 🏋️
 
 Implemented AI for automatic image captioning 📸🖊️
 
+Enabled AI to generate personalized news feeds 📰
+
