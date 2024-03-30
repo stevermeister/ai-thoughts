@@ -5972,3 +5972,5 @@ Applied AI in predicting stock market volatility 📈📉💸
 
 Enabled AI to simulate real-world scenarios for training 🤖🔄
 
+Developed AI for intelligent route planning and navigation 🗺️🚗
+
