@@ -5958,3 +5958,5 @@ Implemented AI for automatic image captioning 📸🖊️
 
 Enabled AI to generate personalized news feeds 📰
 
+Trained AI to detect and prevent equipment failures ⚙️❌
+
