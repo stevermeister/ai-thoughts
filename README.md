@@ -5974,3 +5974,5 @@ Enabled AI to simulate real-world scenarios for training 🤖🔄
 
 Developed AI for intelligent route planning and navigation 🗺️🚗
 
+Integrated AI with smart home devices for automation 🏠🤖
+
