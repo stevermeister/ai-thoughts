@@ -5994,3 +5994,5 @@ Enabled AI to generate personalized workout plans 🏋️🤖
 
 Developed AI for optimizing video content recommendations 🎥📺
 
+Applied AI in monitoring and detecting anomalies in network traffic 🕵️‍♂️🔒
+
