@@ -6020,3 +6020,5 @@ Developed AI for personalized fashion styling recommendations 👗🤖
 
 Implemented AI for intelligent energy management systems in smart cities 🌇🤖
 
+Trained AI to identify and classify plant species for environmental conservation 🌿🤖
+
