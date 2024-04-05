@@ -6018,3 +6018,5 @@ Applied AI in optimizing resource allocation for sustainable development 🌱�
 
 Developed AI for personalized fashion styling recommendations 👗🤖
 
+Implemented AI for intelligent energy management systems in smart cities 🌇🤖
+
