@@ -6118,3 +6118,5 @@ Fixed formatting issue for consistent layout 📐
 
 Introduced caching mechanism for faster loading 🏎️
 
+Refactored class structure for improved modularity 🏗️
+
