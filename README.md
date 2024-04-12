@@ -6122,3 +6122,5 @@ Refactored class structure for improved modularity 🏗️
 
 Added validation checks for data integrity ✅
 
+Improved error messaging for clearer communication 🚨
+
