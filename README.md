@@ -6196,3 +6196,5 @@ Fixed broken image link for seamless display 🖼️
 
 Integrated third-party API for extended functionality 🌐
 
+Implemented role-based access control for secure permissions 🔒
+
