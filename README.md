@@ -6260,3 +6260,5 @@ Reorganized project structure for better organization 📁
 
 Documented code for easier understanding and collaboration 📝
 
+Improved error handling to provide clearer feedback 🔍
+
