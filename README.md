@@ -6262,3 +6262,5 @@ Documented code for easier understanding and collaboration 📝
 
 Improved error handling to provide clearer feedback 🔍
 
+Refined UI design for a more intuitive interface 💻
+
