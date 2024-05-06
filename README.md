@@ -6332,3 +6332,5 @@ Added tooltips for improved user guidance ℹ️
 
 Updated dependencies to latest versions for security patches ⬆️
 
+Fixed broken links that were redirecting to wrong pages 🔗
+
