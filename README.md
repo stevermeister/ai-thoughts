@@ -6376,3 +6376,5 @@ Fixed broken navigation links that were redirecting to wrong pages 🚪
 
 Implemented OAuth authentication for secure login process 🔒
 
+Revised API endpoints to align with RESTful conventions 🔄
+
