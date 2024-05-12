@@ -6394,3 +6394,5 @@ Added feature to export data in multiple file formats 📤
 
 Implemented continuous deployment for seamless updates 🚀
 
+Refactored Redux store for efficient state management 🗄️
+
