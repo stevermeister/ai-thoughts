@@ -6398,3 +6398,5 @@ Refactored Redux store for efficient state management 🗄️
 
 Fixed routing issues causing page not found errors 🛣️
 
+Optimized image compression for faster loading times 🖼️
+
