@@ -6534,3 +6534,5 @@ Introduced data anonymization for privacy protection 🛡️
 
 Fixed validation error in form submission process ❌
 
+Added error logging for easier debugging 📝
+
