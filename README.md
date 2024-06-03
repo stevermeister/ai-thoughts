@@ -6552,3 +6552,5 @@ Implemented end-to-end encryption for secure data transmission 🔐
 
 Fixed accessibility issue in website layout ♿
 
+Added tooltip for better user guidance ℹ️
+
