@@ -6568,3 +6568,5 @@ Fixed routing issue in navigation flow 🗺️
 
 Added password strength validation for stronger security 🔒
 
+Refactored database schema for better data organization 💾
+
