@@ -6572,3 +6572,5 @@ Refactored database schema for better data organization 💾
 
 Implemented OAuth authentication for simplified login process 🔐
 
+Fixed UI bug causing layout distortion 🐞
+
