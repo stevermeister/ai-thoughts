@@ -6668,3 +6668,5 @@ Implemented search functionality for easier navigation 🔍
 
 Integrated third-party libraries for enhanced functionality 📦
 
+Updated documentation for better code comprehension 📄
+
