@@ -6694,3 +6694,5 @@ Refactored backend logic for better scalability 🚀
 
 Optimized algorithms for faster processing speed ⚡
 
+Integrated web sockets for real-time communication 🌐🔗
+
