@@ -6796,3 +6796,5 @@ Refactored code for better scalability ♻️
 
 Fixed bugs in data preprocessing pipeline 🐛
 
+Added multi-task learning support 🔥
+
