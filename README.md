@@ -6802,3 +6802,5 @@ Fine-tuned hyperparameters for better accuracy ⚙️
 
 Trained model on large dataset 💪
 
+Introduced transfer learning for faster training 🚀
+
