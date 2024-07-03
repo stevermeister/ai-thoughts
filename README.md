@@ -6804,3 +6804,5 @@ Trained model on large dataset 💪
 
 Introduced transfer learning for faster training 🚀
 
+Updated documentation with code examples 📚
+
