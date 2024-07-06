@@ -6824,3 +6824,5 @@ Deployed model to production server 🚚
 
 Integrated version control with GitFlow 🌿
 
+Researched state-of-the-art algorithms 📊
+
