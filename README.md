@@ -6832,3 +6832,5 @@ Greatly improved model accuracy 📈
 
 Refactored code to adhere to PEP standards 🐍
 
+Normalized input data for better generalization 📊
+
