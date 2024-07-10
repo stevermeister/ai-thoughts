@@ -6862,3 +6862,5 @@ Added error handling for unexpected inputs ❗
 
 Streamlined data preprocessing workflow 🧼
 
+Reorganized project structure for better organization 📂
+
