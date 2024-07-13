@@ -6892,3 +6892,5 @@ Fixed broken links in documentation 🖇️
 
 Optimized data loading process for efficiency 🚀
 
+Introduced cyclic learning rate schedule for better convergence 🔄
+
