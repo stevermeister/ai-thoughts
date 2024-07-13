@@ -6884,3 +6884,5 @@ Added unit tests for critical functions ✅
 
 Integrated tensorboard for model monitoring 📈
 
+Improved model's sensitivity to rare events 🦄
+
