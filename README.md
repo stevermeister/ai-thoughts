@@ -6918,3 +6918,5 @@ Refactored code for modularity and reusability 🔧
 
 Implemented feature scaling for better model convergence 📉
 
+Updated README with installation instructions 📋
+
