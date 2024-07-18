@@ -6910,3 +6910,5 @@ Optimized GPU memory utilization during training ⏳
 
 Introduced batch normalization for faster convergence 🏃
 
+Revised data preprocessing step for accuracy improvement 📏
+
