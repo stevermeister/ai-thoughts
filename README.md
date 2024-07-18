@@ -6908,3 +6908,5 @@ Trained model with teacher-student learning approach 🎓
 
 Optimized GPU memory utilization during training ⏳
 
+Introduced batch normalization for faster convergence 🏃
+
