@@ -7028,3 +7028,5 @@ Optimized image loading for faster page rendering 🖼️
 
 Added confirmation dialog for critical actions ⚠️
 
+Updated documentation for clearer guidelines 📚
+
