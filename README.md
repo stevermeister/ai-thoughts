@@ -7064,3 +7064,5 @@ Fixed UI layout issue on Safari browser 🦁
 
 Optimized backend for faster response times 🚀
 
+Updated error messages for clarity 🚨
+
