@@ -7060,3 +7060,5 @@ Added rate limiting for API endpoints ⏳
 
 Implemented dark mode for user preference 🌙
 
+Fixed UI layout issue on Safari browser 🦁
+
