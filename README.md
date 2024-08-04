@@ -7074,3 +7074,5 @@ Added support for web push notifications 📲
 
 Implemented feature to track user activity 🕵️
 
+Refactored routing logic for better navigation 🧭
+
