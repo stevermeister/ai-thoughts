@@ -7088,3 +7088,5 @@ Added admin panel for easier management 🛠️
 
 Implemented OAuth authentication for secure login 🔒
 
+Resolved layout bug on mobile devices 📱
+
