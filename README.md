@@ -7108,3 +7108,5 @@ Optimized JavaScript code for better performance 🚀
 
 Added password strength meter for secure registration 🔒
 
+Resolved issue with form validation on Safari browser 🦁
+
