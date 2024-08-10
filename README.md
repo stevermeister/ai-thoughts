@@ -7126,3 +7126,5 @@ Implemented feature to group notifications by category 📬
 
 Refactored code for improved modularity 🧩
 
+Enhanced error messages for user-friendly troubleshooting ❌
+
