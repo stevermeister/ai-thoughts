@@ -7122,3 +7122,5 @@ Optimized SQL queries for faster database operations 🗃️
 
 Added custom error pages for better user experience 🚨
 
+Implemented feature to group notifications by category 📬
+
