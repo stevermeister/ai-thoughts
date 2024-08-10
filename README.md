@@ -7124,3 +7124,5 @@ Added custom error pages for better user experience 🚨
 
 Implemented feature to group notifications by category 📬
 
+Refactored code for improved modularity 🧩
+
