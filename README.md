@@ -7128,3 +7128,5 @@ Refactored code for improved modularity 🧩
 
 Enhanced error messages for user-friendly troubleshooting ❌
 
+Fixed issue with form submission on Internet Explorer 🌐
+
