@@ -7138,3 +7138,5 @@ Added functionality to import data from external sources 📥
 
 Implemented real-time chat feature for instant communication 💬
 
+Updated privacy policy to comply with regulations 🛡️
+
