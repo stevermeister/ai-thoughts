@@ -7142,3 +7142,5 @@ Updated privacy policy to comply with regulations 🛡️
 
 Fixed console error in developer tools 🛠️
 
+Optimized image carousel for smoother transitions 🔄
+
