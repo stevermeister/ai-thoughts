@@ -7156,3 +7156,5 @@ Fixed redirection loop in URL routing 🔄
 
 Optimized CSS animations for smoother visual effects 🎯
 
+Added functionality to export reports in PDF format 📄
+
