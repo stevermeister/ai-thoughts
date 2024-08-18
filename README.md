@@ -7160,3 +7160,5 @@ Added functionality to export reports in PDF format 📄
 
 Deployed WebSocket for real-time updates 🔄
 
+Implemented adaptive design for varying screen sizes 📏
+
