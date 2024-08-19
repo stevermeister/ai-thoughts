@@ -7186,3 +7186,5 @@ Updating dependencies to latest versions 🔄
 
 Enhancing model interpretability with SHAP values 🔍
 
+Designing custom activation functions 🔥
+
