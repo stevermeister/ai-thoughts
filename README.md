@@ -7214,3 +7214,5 @@ Assessing model bias and fairness issues 🎩
 
 Incorporating feedback loops for model improvements 🔁
 
+Deploying models on cloud platforms ☁️
+
