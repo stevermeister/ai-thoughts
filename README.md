@@ -7230,3 +7230,5 @@ Designing end-to-end machine learning pipelines 🔄
 
 Implementing data versioning for reproducibility 🔄
 
+Automating model evaluation with continuous integration 🤖
+
