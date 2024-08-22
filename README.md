@@ -7226,3 +7226,5 @@ Collating data from various sources for comprehensive analysis 📚
 
 Optimizing inference speed for real-time applications ⏱️
 
+Designing end-to-end machine learning pipelines 🔄
+
