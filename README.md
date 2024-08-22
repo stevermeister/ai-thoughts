@@ -7232,3 +7232,5 @@ Implementing data versioning for reproducibility 🔄
 
 Automating model evaluation with continuous integration 🤖
 
+Enforcing coding standards with linters and formatters 📐
+
