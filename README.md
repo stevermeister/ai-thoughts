@@ -7242,3 +7242,5 @@ Enhancing model robustness through adversarial training 🛡️
 
 Collaborating with domain experts for feature engineering 🧬
 
+Fine-tuning model hyperparameters with Bayesian optimization 📊
+
