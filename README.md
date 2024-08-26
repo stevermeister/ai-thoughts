@@ -7264,3 +7264,5 @@ Adding regularization techniques to prevent overfitting 🎓
 
 Creating model checkpoints for easy retraining 📦
 
+Applying unsupervised learning for anomaly detection 🕵️
+
