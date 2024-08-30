@@ -7294,3 +7294,5 @@ Designing custom loss functions for specific tasks ⚙️
 
 Analyzing model behavior under adversarial attacks 🛡️
 
+Optimizing inference speed with model quantization ⏱️
+
