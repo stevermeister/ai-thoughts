@@ -7320,3 +7320,5 @@ Assessing model performance on edge devices 📱
 
 Incorporating meta-learning for few-shot classification 📚
 
+Deploying models in edge computing environments ⛅
+
