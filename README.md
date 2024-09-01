@@ -7316,3 +7316,5 @@ Leveraging parallel computing for distributed training 🚀
 
 Performing model pruning for efficiency 🌳
 
+Assessing model performance on edge devices 📱
+
