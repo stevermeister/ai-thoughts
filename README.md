@@ -7324,3 +7324,5 @@ Deploying models in edge computing environments ⛅
 
 Scaling data processing pipelines with Apache Spark 🌀
 
+Implementing model compression for resource efficiency 🗜️
+
