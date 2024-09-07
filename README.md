@@ -7354,3 +7354,5 @@ Automate model training process 🤖
 
 Fix bugs related to data preprocessing 🐛
 
+Enhance user interface for better user experience 💻
+
